@@ -1,0 +1,9 @@
+*20260915100502*
+__pycache__/
+httpcache/
+*.zip
+*.csv
+*.json
+*.log
+
+

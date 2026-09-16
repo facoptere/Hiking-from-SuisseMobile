@@ -1,0 +1,5282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" version="1.1" creator="crawler">
+  <wpt lat="46.8156229" lon="6.4404967">
+    <ele>1092.6</ele>
+    <time>2026-09-15T10:16:43Z</time>
+    <name>1 km</name>
+  </wpt>
+  <wpt lat="46.8136741" lon="6.4296167">
+    <ele>1120.1</ele>
+    <time>2026-09-15T10:36:26Z</time>
+    <name>2 km</name>
+  </wpt>
+  <wpt lat="46.8187619" lon="6.4352880">
+    <ele>1113.0</ele>
+    <time>2026-09-15T10:54:10Z</time>
+    <name>3 km</name>
+  </wpt>
+  <wpt lat="46.8244218" lon="6.4375285">
+    <ele>1109.4</ele>
+    <time>2026-09-15T11:10:09Z</time>
+    <name>4 km</name>
+  </wpt>
+  <wpt lat="46.8305588" lon="6.4274928">
+    <ele>1142.1</ele>
+    <time>2026-09-15T11:28:32Z</time>
+    <name>5 km</name>
+  </wpt>
+  <wpt lat="46.8349098" lon="6.4240941">
+    <ele>1133.2</ele>
+    <time>2026-09-15T11:44:59Z</time>
+    <name>6 km</name>
+  </wpt>
+  <wpt lat="46.8395945" lon="6.4351364">
+    <ele>1169.9</ele>
+    <time>2026-09-15T12:03:10Z</time>
+    <name>7 km</name>
+  </wpt>
+  <wpt lat="46.8415223" lon="6.4467422">
+    <ele>1155.7</ele>
+    <time>2026-09-15T12:21:10Z</time>
+    <name>8 km</name>
+  </wpt>
+  <wpt lat="46.8453100" lon="6.4541463">
+    <ele>1152.9</ele>
+    <time>2026-09-15T12:39:14Z</time>
+    <name>9 km</name>
+  </wpt>
+  <wpt lat="46.8506547" lon="6.4574057">
+    <ele>1089.5</ele>
+    <time>2026-09-15T12:55:01Z</time>
+    <name>10 km</name>
+  </wpt>
+  <wpt lat="46.8478576" lon="6.4647854">
+    <ele>1121.7</ele>
+    <time>2026-09-15T13:13:49Z</time>
+    <name>11 km</name>
+  </wpt>
+  <wpt lat="46.8444040" lon="6.4555002">
+    <ele>1140.7</ele>
+    <time>2026-09-15T13:31:19Z</time>
+    <name>12 km</name>
+  </wpt>
+  <wpt lat="46.8398821" lon="6.4610887">
+    <ele>1104.7</ele>
+    <time>2026-09-15T13:49:02Z</time>
+    <name>13 km</name>
+  </wpt>
+  <wpt lat="46.8335433" lon="6.4624742">
+    <ele>1094.1</ele>
+    <time>2026-09-15T14:06:53Z</time>
+    <name>14 km</name>
+  </wpt>
+  <wpt lat="46.8329575" lon="6.4507795">
+    <ele>1091.2</ele>
+    <time>2026-09-15T14:24:09Z</time>
+    <name>15 km</name>
+  </wpt>
+  <wpt lat="46.8271017" lon="6.4425775">
+    <ele>1088.7</ele>
+    <time>2026-09-15T14:40:48Z</time>
+    <name>16 km</name>
+  </wpt>
+  <trk>
+    <name>139r La Vraconnaz - La Vraconnaz</name>
+    <link href="https://schweizmobil.ch/fr/hiking-in-switzerland/route-139" />
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="46.8236967" lon="6.4399934">
+        <ele>1098.1</ele>
+        <time>2026-09-15T10:00:00Z</time>
+        <extensions>
+          <gpxdata:distance>0.00</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8235897" lon="6.4400734">
+        <ele>1097.4</ele>
+        <time>2026-09-15T10:00:14Z</time>
+        <extensions>
+          <gpxdata:distance>13.36</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8234997" lon="6.4401284">
+        <ele>1097.0</ele>
+        <time>2026-09-15T10:00:25Z</time>
+        <extensions>
+          <gpxdata:distance>24.21</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8233387" lon="6.4402094">
+        <ele>1096.1</ele>
+        <time>2026-09-15T10:00:44Z</time>
+        <extensions>
+          <gpxdata:distance>43.15</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8232577" lon="6.4402244">
+        <ele>1095.8</ele>
+        <time>2026-09-15T10:00:53Z</time>
+        <extensions>
+          <gpxdata:distance>52.22</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8232577" lon="6.4402244">
+        <ele>1095.8</ele>
+        <time>2026-09-15T10:00:53Z</time>
+        <extensions>
+          <gpxdata:distance>52.22</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8232477" lon="6.4401194">
+        <ele>1095.7</ele>
+        <time>2026-09-15T10:01:02Z</time>
+        <extensions>
+          <gpxdata:distance>60.29</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8232297" lon="6.4400934">
+        <ele>1096.1</ele>
+        <time>2026-09-15T10:01:04Z</time>
+        <extensions>
+          <gpxdata:distance>63.10</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8231937" lon="6.4400814">
+        <ele>1096.8</ele>
+        <time>2026-09-15T10:01:09Z</time>
+        <extensions>
+          <gpxdata:distance>67.21</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8231397" lon="6.4400954">
+        <ele>1096.2</ele>
+        <time>2026-09-15T10:01:15Z</time>
+        <extensions>
+          <gpxdata:distance>73.31</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8231037" lon="6.4400694">
+        <ele>1096.1</ele>
+        <time>2026-09-15T10:01:19Z</time>
+        <extensions>
+          <gpxdata:distance>77.77</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8230847" lon="6.4400044">
+        <ele>1097.1</ele>
+        <time>2026-09-15T10:01:25Z</time>
+        <extensions>
+          <gpxdata:distance>83.15</gpxdata:distance>
+          <gpxdata:speed>1.008</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8230657" lon="6.4399134">
+        <ele>1097.2</ele>
+        <time>2026-09-15T10:01:32Z</time>
+        <extensions>
+          <gpxdata:distance>90.39</gpxdata:distance>
+          <gpxdata:speed>0.953</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8230387" lon="6.4398614">
+        <ele>1097.4</ele>
+        <time>2026-09-15T10:01:38Z</time>
+        <extensions>
+          <gpxdata:distance>95.36</gpxdata:distance>
+          <gpxdata:speed>0.918</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8230027" lon="6.4398224">
+        <ele>1097.3</ele>
+        <time>2026-09-15T10:01:43Z</time>
+        <extensions>
+          <gpxdata:distance>100.34</gpxdata:distance>
+          <gpxdata:speed>0.933</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8229477" lon="6.4397844">
+        <ele>1097.0</ele>
+        <time>2026-09-15T10:01:50Z</time>
+        <extensions>
+          <gpxdata:distance>107.10</gpxdata:distance>
+          <gpxdata:speed>0.942</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8228677" lon="6.4397994">
+        <ele>1095.7</ele>
+        <time>2026-09-15T10:01:59Z</time>
+        <extensions>
+          <gpxdata:distance>116.07</gpxdata:distance>
+          <gpxdata:speed>1.003</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8227867" lon="6.4398263">
+        <ele>1094.4</ele>
+        <time>2026-09-15T10:02:09Z</time>
+        <extensions>
+          <gpxdata:distance>125.31</gpxdata:distance>
+          <gpxdata:speed>0.959</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8227337" lon="6.4399063">
+        <ele>1093.1</ele>
+        <time>2026-09-15T10:02:18Z</time>
+        <extensions>
+          <gpxdata:distance>133.78</gpxdata:distance>
+          <gpxdata:speed>0.947</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8226977" lon="6.4399593">
+        <ele>1092.2</ele>
+        <time>2026-09-15T10:02:24Z</time>
+        <extensions>
+          <gpxdata:distance>139.46</gpxdata:distance>
+          <gpxdata:speed>0.934</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8226618" lon="6.4399733">
+        <ele>1091.5</ele>
+        <time>2026-09-15T10:02:28Z</time>
+        <extensions>
+          <gpxdata:distance>143.60</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8225628" lon="6.4399883">
+        <ele>1090.7</ele>
+        <time>2026-09-15T10:02:41Z</time>
+        <extensions>
+          <gpxdata:distance>154.66</gpxdata:distance>
+          <gpxdata:speed>0.895</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8224188" lon="6.4399773">
+        <ele>1089.9</ele>
+        <time>2026-09-15T10:02:59Z</time>
+        <extensions>
+          <gpxdata:distance>170.70</gpxdata:distance>
+          <gpxdata:speed>0.895</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8222748" lon="6.4399543">
+        <ele>1089.3</ele>
+        <time>2026-09-15T10:03:17Z</time>
+        <extensions>
+          <gpxdata:distance>186.80</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8221398" lon="6.4399173">
+        <ele>1089.1</ele>
+        <time>2026-09-15T10:03:33Z</time>
+        <extensions>
+          <gpxdata:distance>202.08</gpxdata:distance>
+          <gpxdata:speed>0.912</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8220138" lon="6.4399193">
+        <ele>1088.8</ele>
+        <time>2026-09-15T10:03:48Z</time>
+        <extensions>
+          <gpxdata:distance>216.09</gpxdata:distance>
+          <gpxdata:speed>0.928</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8219598" lon="6.4398943">
+        <ele>1088.7</ele>
+        <time>2026-09-15T10:03:55Z</time>
+        <extensions>
+          <gpxdata:distance>222.39</gpxdata:distance>
+          <gpxdata:speed>0.939</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8216898" lon="6.4399253">
+        <ele>1088.1</ele>
+        <time>2026-09-15T10:04:27Z</time>
+        <extensions>
+          <gpxdata:distance>252.50</gpxdata:distance>
+          <gpxdata:speed>0.958</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8213848" lon="6.4399702">
+        <ele>1089.2</ele>
+        <time>2026-09-15T10:05:01Z</time>
+        <extensions>
+          <gpxdata:distance>286.59</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8201988" lon="6.4401761">
+        <ele>1094.0</ele>
+        <time>2026-09-15T10:07:15Z</time>
+        <extensions>
+          <gpxdata:distance>419.39</gpxdata:distance>
+          <gpxdata:speed>0.989</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8201268" lon="6.4401901">
+        <ele>1094.9</ele>
+        <time>2026-09-15T10:07:24Z</time>
+        <extensions>
+          <gpxdata:distance>427.47</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8186718" lon="6.4404270">
+        <ele>1097.9</ele>
+        <time>2026-09-15T10:10:13Z</time>
+        <extensions>
+          <gpxdata:distance>590.26</gpxdata:distance>
+          <gpxdata:speed>0.964</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8186908" lon="6.4405710">
+        <ele>1096.8</ele>
+        <time>2026-09-15T10:10:24Z</time>
+        <extensions>
+          <gpxdata:distance>601.42</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8186648" lon="6.4407020">
+        <ele>1096.1</ele>
+        <time>2026-09-15T10:10:35Z</time>
+        <extensions>
+          <gpxdata:distance>611.80</gpxdata:distance>
+          <gpxdata:speed>0.969</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8186478" lon="6.4407550">
+        <ele>1096.0</ele>
+        <time>2026-09-15T10:10:39Z</time>
+        <extensions>
+          <gpxdata:distance>616.25</gpxdata:distance>
+          <gpxdata:speed>0.967</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8186478" lon="6.4407550">
+        <ele>1096.0</ele>
+        <time>2026-09-15T10:10:39Z</time>
+        <extensions>
+          <gpxdata:distance>616.25</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8185568" lon="6.4407040">
+        <ele>1095.7</ele>
+        <time>2026-09-15T10:10:51Z</time>
+        <extensions>
+          <gpxdata:distance>627.09</gpxdata:distance>
+          <gpxdata:speed>0.961</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8184578" lon="6.4406800">
+        <ele>1095.4</ele>
+        <time>2026-09-15T10:11:02Z</time>
+        <extensions>
+          <gpxdata:distance>638.25</gpxdata:distance>
+          <gpxdata:speed>0.968</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8183588" lon="6.4406690">
+        <ele>1095.1</ele>
+        <time>2026-09-15T10:11:13Z</time>
+        <extensions>
+          <gpxdata:distance>649.29</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8182508" lon="6.4406710">
+        <ele>1094.5</ele>
+        <time>2026-09-15T10:11:25Z</time>
+        <extensions>
+          <gpxdata:distance>661.30</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8181518" lon="6.4406849">
+        <ele>1094.1</ele>
+        <time>2026-09-15T10:11:37Z</time>
+        <extensions>
+          <gpxdata:distance>672.36</gpxdata:distance>
+          <gpxdata:speed>0.953</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8181068" lon="6.4406989">
+        <ele>1093.8</ele>
+        <time>2026-09-15T10:11:42Z</time>
+        <extensions>
+          <gpxdata:distance>677.47</gpxdata:distance>
+          <gpxdata:speed>0.962</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8181068" lon="6.4406989">
+        <ele>1093.8</ele>
+        <time>2026-09-15T10:11:42Z</time>
+        <extensions>
+          <gpxdata:distance>677.47</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8180888" lon="6.4406869">
+        <ele>1093.6</ele>
+        <time>2026-09-15T10:11:44Z</time>
+        <extensions>
+          <gpxdata:distance>679.67</gpxdata:distance>
+          <gpxdata:speed>0.964</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8178378" lon="6.4407309">
+        <ele>1092.5</ele>
+        <time>2026-09-15T10:12:14Z</time>
+        <extensions>
+          <gpxdata:distance>707.78</gpxdata:distance>
+          <gpxdata:speed>0.963</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8177658" lon="6.4407319">
+        <ele>1092.2</ele>
+        <time>2026-09-15T10:12:22Z</time>
+        <extensions>
+          <gpxdata:distance>715.79</gpxdata:distance>
+          <gpxdata:speed>0.962</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8175768" lon="6.4407489">
+        <ele>1091.6</ele>
+        <time>2026-09-15T10:12:44Z</time>
+        <extensions>
+          <gpxdata:distance>736.84</gpxdata:distance>
+          <gpxdata:speed>0.963</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8175228" lon="6.4407499">
+        <ele>1091.4</ele>
+        <time>2026-09-15T10:12:50Z</time>
+        <extensions>
+          <gpxdata:distance>742.85</gpxdata:distance>
+          <gpxdata:speed>0.962</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8172978" lon="6.4407669">
+        <ele>1090.7</ele>
+        <time>2026-09-15T10:13:16Z</time>
+        <extensions>
+          <gpxdata:distance>767.90</gpxdata:distance>
+          <gpxdata:speed>0.967</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8168758" lon="6.4408658">
+        <ele>1091.0</ele>
+        <time>2026-09-15T10:14:04Z</time>
+        <extensions>
+          <gpxdata:distance>815.43</gpxdata:distance>
+          <gpxdata:speed>0.985</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8161038" lon="6.4409588">
+        <ele>1090.7</ele>
+        <time>2026-09-15T10:15:31Z</time>
+        <extensions>
+          <gpxdata:distance>901.56</gpxdata:distance>
+          <gpxdata:speed>0.995</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8158159" lon="6.4409387">
+        <ele>1091.1</ele>
+        <time>2026-09-15T10:16:03Z</time>
+        <extensions>
+          <gpxdata:distance>933.61</gpxdata:distance>
+          <gpxdata:speed>0.999</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8157149" lon="6.4407827">
+        <ele>1091.5</ele>
+        <time>2026-09-15T10:16:19Z</time>
+        <extensions>
+          <gpxdata:distance>949.95</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8156229" lon="6.4404967">
+        <ele>1092.6</ele>
+        <time>2026-09-15T10:16:43Z</time>
+        <extensions>
+          <gpxdata:distance>974.00</gpxdata:distance>
+          <gpxdata:speed>1.011</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8153909" lon="6.4397667">
+        <ele>1095.3</ele>
+        <time>2026-09-15T10:17:45Z</time>
+        <extensions>
+          <gpxdata:distance>1035.25</gpxdata:distance>
+          <gpxdata:speed>0.988</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8152509" lon="6.4391797">
+        <ele>1096.2</ele>
+        <time>2026-09-15T10:18:33Z</time>
+        <extensions>
+          <gpxdata:distance>1082.55</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8151499" lon="6.4388797">
+        <ele>1097.3</ele>
+        <time>2026-09-15T10:18:59Z</time>
+        <extensions>
+          <gpxdata:distance>1107.99</gpxdata:distance>
+          <gpxdata:speed>0.971</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8149109" lon="6.4382687">
+        <ele>1099.3</ele>
+        <time>2026-09-15T10:19:55Z</time>
+        <extensions>
+          <gpxdata:distance>1161.55</gpxdata:distance>
+          <gpxdata:speed>0.957</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8146979" lon="6.4376567">
+        <ele>1099.6</ele>
+        <time>2026-09-15T10:20:50Z</time>
+        <extensions>
+          <gpxdata:distance>1213.79</gpxdata:distance>
+          <gpxdata:speed>0.958</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8146339" lon="6.4374747">
+        <ele>1100.5</ele>
+        <time>2026-09-15T10:21:07Z</time>
+        <extensions>
+          <gpxdata:distance>1229.36</gpxdata:distance>
+          <gpxdata:speed>0.937</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8145879" lon="6.4373447">
+        <ele>1101.3</ele>
+        <time>2026-09-15T10:21:19Z</time>
+        <extensions>
+          <gpxdata:distance>1240.50</gpxdata:distance>
+          <gpxdata:speed>0.928</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8145509" lon="6.4372537">
+        <ele>1102.1</ele>
+        <time>2026-09-15T10:21:27Z</time>
+        <extensions>
+          <gpxdata:distance>1248.56</gpxdata:distance>
+          <gpxdata:speed>0.922</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8145049" lon="6.4371497">
+        <ele>1103.1</ele>
+        <time>2026-09-15T10:21:38Z</time>
+        <extensions>
+          <gpxdata:distance>1257.98</gpxdata:distance>
+          <gpxdata:speed>0.919</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8144589" lon="6.4370187">
+        <ele>1105.0</ele>
+        <time>2026-09-15T10:21:50Z</time>
+        <extensions>
+          <gpxdata:distance>1269.18</gpxdata:distance>
+          <gpxdata:speed>0.907</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8143759" lon="6.4367977">
+        <ele>1107.0</ele>
+        <time>2026-09-15T10:22:12Z</time>
+        <extensions>
+          <gpxdata:distance>1288.37</gpxdata:distance>
+          <gpxdata:speed>0.879</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8143109" lon="6.4365897">
+        <ele>1107.2</ele>
+        <time>2026-09-15T10:22:31Z</time>
+        <extensions>
+          <gpxdata:distance>1305.77</gpxdata:distance>
+          <gpxdata:speed>0.885</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8142739" lon="6.4364727">
+        <ele>1107.8</ele>
+        <time>2026-09-15T10:22:43Z</time>
+        <extensions>
+          <gpxdata:distance>1315.58</gpxdata:distance>
+          <gpxdata:speed>0.872</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8141090" lon="6.4360687">
+        <ele>1107.9</ele>
+        <time>2026-09-15T10:23:24Z</time>
+        <extensions>
+          <gpxdata:distance>1351.37</gpxdata:distance>
+          <gpxdata:speed>0.858</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8141090" lon="6.4360687">
+        <ele>1107.9</ele>
+        <time>2026-09-15T10:23:24Z</time>
+        <extensions>
+          <gpxdata:distance>1351.37</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8138230" lon="6.4352487">
+        <ele>1106.2</ele>
+        <time>2026-09-15T10:24:39Z</time>
+        <extensions>
+          <gpxdata:distance>1421.41</gpxdata:distance>
+          <gpxdata:speed>0.944</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8135640" lon="6.4345326">
+        <ele>1107.5</ele>
+        <time>2026-09-15T10:25:43Z</time>
+        <extensions>
+          <gpxdata:distance>1483.05</gpxdata:distance>
+          <gpxdata:speed>0.954</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8135640" lon="6.4345326">
+        <ele>1107.5</ele>
+        <time>2026-09-15T10:25:43Z</time>
+        <extensions>
+          <gpxdata:distance>1483.05</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8133790" lon="6.4339596">
+        <ele>1113.7</ele>
+        <time>2026-09-15T10:26:35Z</time>
+        <extensions>
+          <gpxdata:distance>1531.26</gpxdata:distance>
+          <gpxdata:speed>0.928</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8132870" lon="6.4336606">
+        <ele>1117.8</ele>
+        <time>2026-09-15T10:27:03Z</time>
+        <extensions>
+          <gpxdata:distance>1556.21</gpxdata:distance>
+          <gpxdata:speed>0.910</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8131940" lon="6.4333476">
+        <ele>1120.2</ele>
+        <time>2026-09-15T10:27:32Z</time>
+        <extensions>
+          <gpxdata:distance>1582.17</gpxdata:distance>
+          <gpxdata:speed>0.893</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8131110" lon="6.4330996">
+        <ele>1124.3</ele>
+        <time>2026-09-15T10:27:56Z</time>
+        <extensions>
+          <gpxdata:distance>1603.18</gpxdata:distance>
+          <gpxdata:speed>0.866</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8130460" lon="6.4329046">
+        <ele>1127.7</ele>
+        <time>2026-09-15T10:28:16Z</time>
+        <extensions>
+          <gpxdata:distance>1619.69</gpxdata:distance>
+          <gpxdata:speed>0.823</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8124940" lon="6.4314866">
+        <ele>1144.8</ele>
+        <time>2026-09-15T10:30:57Z</time>
+        <extensions>
+          <gpxdata:distance>1743.83</gpxdata:distance>
+          <gpxdata:speed>0.770</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8123931" lon="6.4312266">
+        <ele>1146.8</ele>
+        <time>2026-09-15T10:31:29Z</time>
+        <extensions>
+          <gpxdata:distance>1766.58</gpxdata:distance>
+          <gpxdata:speed>0.710</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8123471" lon="6.4311226">
+        <ele>1147.9</ele>
+        <time>2026-09-15T10:31:44Z</time>
+        <extensions>
+          <gpxdata:distance>1776.00</gpxdata:distance>
+          <gpxdata:speed>0.660</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8123471" lon="6.4311226">
+        <ele>1147.9</ele>
+        <time>2026-09-15T10:31:44Z</time>
+        <extensions>
+          <gpxdata:distance>1776.00</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8121611" lon="6.4304056">
+        <ele>1152.7</ele>
+        <time>2026-09-15T10:33:09Z</time>
+        <extensions>
+          <gpxdata:distance>1834.36</gpxdata:distance>
+          <gpxdata:speed>0.683</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8126441" lon="6.4300946">
+        <ele>1146.4</ele>
+        <time>2026-09-15T10:34:23Z</time>
+        <extensions>
+          <gpxdata:distance>1893.05</gpxdata:distance>
+          <gpxdata:speed>0.794</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8132971" lon="6.4297417">
+        <ele>1127.1</ele>
+        <time>2026-09-15T10:35:43Z</time>
+        <extensions>
+          <gpxdata:distance>1970.46</gpxdata:distance>
+          <gpxdata:speed>0.967</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8136741" lon="6.4296167">
+        <ele>1120.1</ele>
+        <time>2026-09-15T10:36:26Z</time>
+        <extensions>
+          <gpxdata:distance>2013.45</gpxdata:distance>
+          <gpxdata:speed>0.999</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8137341" lon="6.4293147">
+        <ele>1119.8</ele>
+        <time>2026-09-15T10:36:50Z</time>
+        <extensions>
+          <gpxdata:distance>2037.38</gpxdata:distance>
+          <gpxdata:speed>0.988</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8146041" lon="6.4289968">
+        <ele>1112.9</ele>
+        <time>2026-09-15T10:38:39Z</time>
+        <extensions>
+          <gpxdata:distance>2137.10</gpxdata:distance>
+          <gpxdata:speed>0.915</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8146740" lon="6.4298078">
+        <ele>1110.4</ele>
+        <time>2026-09-15T10:39:48Z</time>
+        <extensions>
+          <gpxdata:distance>2199.30</gpxdata:distance>
+          <gpxdata:speed>0.911</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8149190" lon="6.4310488">
+        <ele>1107.1</ele>
+        <time>2026-09-15T10:41:35Z</time>
+        <extensions>
+          <gpxdata:distance>2297.59</gpxdata:distance>
+          <gpxdata:speed>0.918</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8153120" lon="6.4327318">
+        <ele>1105.8</ele>
+        <time>2026-09-15T10:44:00Z</time>
+        <extensions>
+          <gpxdata:distance>2432.91</gpxdata:distance>
+          <gpxdata:speed>0.933</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8155790" lon="6.4334468">
+        <ele>1103.4</ele>
+        <time>2026-09-15T10:45:07Z</time>
+        <extensions>
+          <gpxdata:distance>2494.89</gpxdata:distance>
+          <gpxdata:speed>0.922</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8157130" lon="6.4343488">
+        <ele>1102.2</ele>
+        <time>2026-09-15T10:46:22Z</time>
+        <extensions>
+          <gpxdata:distance>2565.13</gpxdata:distance>
+          <gpxdata:speed>0.931</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8159439" lon="6.4350788">
+        <ele>1098.9</ele>
+        <time>2026-09-15T10:47:26Z</time>
+        <extensions>
+          <gpxdata:distance>2626.33</gpxdata:distance>
+          <gpxdata:speed>0.957</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8166349" lon="6.4358779">
+        <ele>1099.6</ele>
+        <time>2026-09-15T10:49:07Z</time>
+        <extensions>
+          <gpxdata:distance>2724.31</gpxdata:distance>
+          <gpxdata:speed>0.975</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8171779" lon="6.4363139">
+        <ele>1101.3</ele>
+        <time>2026-09-15T10:50:17Z</time>
+        <extensions>
+          <gpxdata:distance>2793.21</gpxdata:distance>
+          <gpxdata:speed>0.981</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8174249" lon="6.4366889">
+        <ele>1101.6</ele>
+        <time>2026-09-15T10:50:57Z</time>
+        <extensions>
+          <gpxdata:distance>2832.81</gpxdata:distance>
+          <gpxdata:speed>0.992</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8178189" lon="6.4365510">
+        <ele>1102.2</ele>
+        <time>2026-09-15T10:51:42Z</time>
+        <extensions>
+          <gpxdata:distance>2877.86</gpxdata:distance>
+          <gpxdata:speed>0.997</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8179869" lon="6.4361540">
+        <ele>1104.5</ele>
+        <time>2026-09-15T10:52:17Z</time>
+        <extensions>
+          <gpxdata:distance>2913.38</gpxdata:distance>
+          <gpxdata:speed>1.007</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8182879" lon="6.4356640">
+        <ele>1109.5</ele>
+        <time>2026-09-15T10:53:08Z</time>
+        <extensions>
+          <gpxdata:distance>2963.48</gpxdata:distance>
+          <gpxdata:speed>0.995</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8187619" lon="6.4352880">
+        <ele>1113.0</ele>
+        <time>2026-09-15T10:54:10Z</time>
+        <extensions>
+          <gpxdata:distance>3023.45</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8190359" lon="6.4347461">
+        <ele>1110.6</ele>
+        <time>2026-09-15T10:55:03Z</time>
+        <extensions>
+          <gpxdata:distance>3074.72</gpxdata:distance>
+          <gpxdata:speed>0.971</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8195439" lon="6.4341731">
+        <ele>1112.3</ele>
+        <time>2026-09-15T10:56:18Z</time>
+        <extensions>
+          <gpxdata:distance>3146.08</gpxdata:distance>
+          <gpxdata:speed>0.947</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8199619" lon="6.4336672">
+        <ele>1114.6</ele>
+        <time>2026-09-15T10:57:23Z</time>
+        <extensions>
+          <gpxdata:distance>3206.43</gpxdata:distance>
+          <gpxdata:speed>0.933</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8200469" lon="6.4331152">
+        <ele>1113.6</ele>
+        <time>2026-09-15T10:58:08Z</time>
+        <extensions>
+          <gpxdata:distance>3249.48</gpxdata:distance>
+          <gpxdata:speed>0.944</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8205329" lon="6.4321622">
+        <ele>1114.1</ele>
+        <time>2026-09-15T10:59:43Z</time>
+        <extensions>
+          <gpxdata:distance>3339.92</gpxdata:distance>
+          <gpxdata:speed>0.950</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8216878" lon="6.4345653">
+        <ele>1109.9</ele>
+        <time>2026-09-15T11:03:31Z</time>
+        <extensions>
+          <gpxdata:distance>3563.36</gpxdata:distance>
+          <gpxdata:speed>0.984</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8216878" lon="6.4345653">
+        <ele>1109.9</ele>
+        <time>2026-09-15T11:03:31Z</time>
+        <extensions>
+          <gpxdata:distance>3563.36</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8221188" lon="6.4354353">
+        <ele>1109.5</ele>
+        <time>2026-09-15T11:04:51Z</time>
+        <extensions>
+          <gpxdata:distance>3645.08</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8226388" lon="6.4362643">
+        <ele>1108.2</ele>
+        <time>2026-09-15T11:06:17Z</time>
+        <extensions>
+          <gpxdata:distance>3730.65</gpxdata:distance>
+          <gpxdata:speed>1.004</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8230938" lon="6.4368724">
+        <ele>1108.1</ele>
+        <time>2026-09-15T11:07:25Z</time>
+        <extensions>
+          <gpxdata:distance>3799.21</gpxdata:distance>
+          <gpxdata:speed>1.008</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8235748" lon="6.4373484">
+        <ele>1105.4</ele>
+        <time>2026-09-15T11:08:29Z</time>
+        <extensions>
+          <gpxdata:distance>3863.80</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8241078" lon="6.4376654">
+        <ele>1108.1</ele>
+        <time>2026-09-15T11:09:33Z</time>
+        <extensions>
+          <gpxdata:distance>3927.79</gpxdata:distance>
+          <gpxdata:speed>1.001</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8244218" lon="6.4375285">
+        <ele>1109.4</ele>
+        <time>2026-09-15T11:10:09Z</time>
+        <extensions>
+          <gpxdata:distance>3964.22</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8252678" lon="6.4365305">
+        <ele>1113.2</ele>
+        <time>2026-09-15T11:12:09Z</time>
+        <extensions>
+          <gpxdata:distance>4085.11</gpxdata:distance>
+          <gpxdata:speed>1.011</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8262178" lon="6.4351366">
+        <ele>1119.0</ele>
+        <time>2026-09-15T11:14:42Z</time>
+        <extensions>
+          <gpxdata:distance>4234.80</gpxdata:distance>
+          <gpxdata:speed>0.978</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8262178" lon="6.4351366">
+        <ele>1119.0</ele>
+        <time>2026-09-15T11:14:42Z</time>
+        <extensions>
+          <gpxdata:distance>4234.80</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8269198" lon="6.4341136">
+        <ele>1126.0</ele>
+        <time>2026-09-15T11:16:38Z</time>
+        <extensions>
+          <gpxdata:distance>4345.03</gpxdata:distance>
+          <gpxdata:speed>0.953</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8272208" lon="6.4335846">
+        <ele>1129.9</ele>
+        <time>2026-09-15T11:17:34Z</time>
+        <extensions>
+          <gpxdata:distance>4397.37</gpxdata:distance>
+          <gpxdata:speed>0.930</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8276648" lon="6.4319117">
+        <ele>1140.4</ele>
+        <time>2026-09-15T11:20:06Z</time>
+        <extensions>
+          <gpxdata:distance>4533.89</gpxdata:distance>
+          <gpxdata:speed>0.901</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8276648" lon="6.4319117">
+        <ele>1140.4</ele>
+        <time>2026-09-15T11:20:06Z</time>
+        <extensions>
+          <gpxdata:distance>4533.89</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8278788" lon="6.4317367">
+        <ele>1140.9</ele>
+        <time>2026-09-15T11:20:37Z</time>
+        <extensions>
+          <gpxdata:distance>4561.15</gpxdata:distance>
+          <gpxdata:speed>0.881</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8278788" lon="6.4317367">
+        <ele>1140.9</ele>
+        <time>2026-09-15T11:20:37Z</time>
+        <extensions>
+          <gpxdata:distance>4561.15</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8281728" lon="6.4313517">
+        <ele>1143.8</ele>
+        <time>2026-09-15T11:21:27Z</time>
+        <extensions>
+          <gpxdata:distance>4605.05</gpxdata:distance>
+          <gpxdata:speed>0.862</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8284218" lon="6.4310317">
+        <ele>1144.7</ele>
+        <time>2026-09-15T11:22:11Z</time>
+        <extensions>
+          <gpxdata:distance>4641.92</gpxdata:distance>
+          <gpxdata:speed>0.851</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8286168" lon="6.4306487">
+        <ele>1144.8</ele>
+        <time>2026-09-15T11:22:53Z</time>
+        <extensions>
+          <gpxdata:distance>4678.24</gpxdata:distance>
+          <gpxdata:speed>0.864</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8287568" lon="6.4302787">
+        <ele>1145.1</ele>
+        <time>2026-09-15T11:23:29Z</time>
+        <extensions>
+          <gpxdata:distance>4710.40</gpxdata:distance>
+          <gpxdata:speed>0.879</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8289238" lon="6.4298697">
+        <ele>1145.3</ele>
+        <time>2026-09-15T11:24:10Z</time>
+        <extensions>
+          <gpxdata:distance>4746.64</gpxdata:distance>
+          <gpxdata:speed>0.900</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8294478" lon="6.4290728">
+        <ele>1149.1</ele>
+        <time>2026-09-15T11:25:39Z</time>
+        <extensions>
+          <gpxdata:distance>4830.72</gpxdata:distance>
+          <gpxdata:speed>0.938</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8304338" lon="6.4276388">
+        <ele>1143.3</ele>
+        <time>2026-09-15T11:28:15Z</time>
+        <extensions>
+          <gpxdata:distance>4985.39</gpxdata:distance>
+          <gpxdata:speed>0.996</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8305588" lon="6.4274928">
+        <ele>1142.1</ele>
+        <time>2026-09-15T11:28:32Z</time>
+        <extensions>
+          <gpxdata:distance>5003.18</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8305588" lon="6.4274928">
+        <ele>1142.1</ele>
+        <time>2026-09-15T11:28:32Z</time>
+        <extensions>
+          <gpxdata:distance>5003.18</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8315458" lon="6.4272249">
+        <ele>1137.6</ele>
+        <time>2026-09-15T11:30:24Z</time>
+        <extensions>
+          <gpxdata:distance>5114.81</gpxdata:distance>
+          <gpxdata:speed>0.997</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8316148" lon="6.4268439">
+        <ele>1137.4</ele>
+        <time>2026-09-15T11:30:54Z</time>
+        <extensions>
+          <gpxdata:distance>5144.79</gpxdata:distance>
+          <gpxdata:speed>0.994</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8324178" lon="6.4261070">
+        <ele>1137.1</ele>
+        <time>2026-09-15T11:32:40Z</time>
+        <extensions>
+          <gpxdata:distance>5250.22</gpxdata:distance>
+          <gpxdata:speed>0.995</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8326648" lon="6.4266400">
+        <ele>1134.7</ele>
+        <time>2026-09-15T11:33:30Z</time>
+        <extensions>
+          <gpxdata:distance>5299.19</gpxdata:distance>
+          <gpxdata:speed>0.990</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8332118" lon="6.4254110">
+        <ele>1132.1</ele>
+        <time>2026-09-15T11:35:23Z</time>
+        <extensions>
+          <gpxdata:distance>5410.73</gpxdata:distance>
+          <gpxdata:speed>0.987</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8331168" lon="6.4248100">
+        <ele>1135.5</ele>
+        <time>2026-09-15T11:36:11Z</time>
+        <extensions>
+          <gpxdata:distance>5457.65</gpxdata:distance>
+          <gpxdata:speed>0.985</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8336058" lon="6.4231230">
+        <ele>1128.5</ele>
+        <time>2026-09-15T11:38:33Z</time>
+        <extensions>
+          <gpxdata:distance>5597.03</gpxdata:distance>
+          <gpxdata:speed>0.981</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8337989" lon="6.4215850">
+        <ele>1124.6</ele>
+        <time>2026-09-15T11:40:34Z</time>
+        <extensions>
+          <gpxdata:distance>5715.98</gpxdata:distance>
+          <gpxdata:speed>0.981</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8344199" lon="6.4216260">
+        <ele>1124.9</ele>
+        <time>2026-09-15T11:41:44Z</time>
+        <extensions>
+          <gpxdata:distance>5785.10</gpxdata:distance>
+          <gpxdata:speed>0.984</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8347088" lon="6.4228261">
+        <ele>1129.0</ele>
+        <time>2026-09-15T11:43:21Z</time>
+        <extensions>
+          <gpxdata:distance>5881.88</gpxdata:distance>
+          <gpxdata:speed>0.998</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8347088" lon="6.4228261">
+        <ele>1129.0</ele>
+        <time>2026-09-15T11:43:21Z</time>
+        <extensions>
+          <gpxdata:distance>5881.88</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8347478" lon="6.4231531">
+        <ele>1130.0</ele>
+        <time>2026-09-15T11:43:46Z</time>
+        <extensions>
+          <gpxdata:distance>5907.13</gpxdata:distance>
+          <gpxdata:speed>0.998</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8349098" lon="6.4240941">
+        <ele>1133.2</ele>
+        <time>2026-09-15T11:44:59Z</time>
+        <extensions>
+          <gpxdata:distance>5980.94</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8351898" lon="6.4252821">
+        <ele>1137.4</ele>
+        <time>2026-09-15T11:46:36Z</time>
+        <extensions>
+          <gpxdata:distance>6076.52</gpxdata:distance>
+          <gpxdata:speed>0.992</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8352687" lon="6.4271291">
+        <ele>1140.6</ele>
+        <time>2026-09-15T11:48:57Z</time>
+        <extensions>
+          <gpxdata:distance>6217.29</gpxdata:distance>
+          <gpxdata:speed>0.995</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8353357" lon="6.4285041">
+        <ele>1141.1</ele>
+        <time>2026-09-15T11:50:46Z</time>
+        <extensions>
+          <gpxdata:distance>6322.15</gpxdata:distance>
+          <gpxdata:speed>0.968</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8354287" lon="6.4288951">
+        <ele>1141.2</ele>
+        <time>2026-09-15T11:51:19Z</time>
+        <extensions>
+          <gpxdata:distance>6353.64</gpxdata:distance>
+          <gpxdata:speed>0.946</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8356857" lon="6.4294541">
+        <ele>1141.1</ele>
+        <time>2026-09-15T11:52:13Z</time>
+        <extensions>
+          <gpxdata:distance>6404.87</gpxdata:distance>
+          <gpxdata:speed>0.946</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8366867" lon="6.4307862">
+        <ele>1144.9</ele>
+        <time>2026-09-15T11:54:51Z</time>
+        <extensions>
+          <gpxdata:distance>6555.40</gpxdata:distance>
+          <gpxdata:speed>0.952</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8378796" lon="6.4324543">
+        <ele>1156.3</ele>
+        <time>2026-09-15T11:58:08Z</time>
+        <extensions>
+          <gpxdata:distance>6738.96</gpxdata:distance>
+          <gpxdata:speed>0.932</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8387566" lon="6.4339463">
+        <ele>1162.9</ele>
+        <time>2026-09-15T12:00:49Z</time>
+        <extensions>
+          <gpxdata:distance>6888.59</gpxdata:distance>
+          <gpxdata:speed>0.927</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8395945" lon="6.4351364">
+        <ele>1169.9</ele>
+        <time>2026-09-15T12:03:10Z</time>
+        <extensions>
+          <gpxdata:distance>7018.49</gpxdata:distance>
+          <gpxdata:speed>0.923</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8399645" lon="6.4362304">
+        <ele>1173.8</ele>
+        <time>2026-09-15T12:04:51Z</time>
+        <extensions>
+          <gpxdata:distance>7111.32</gpxdata:distance>
+          <gpxdata:speed>0.923</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8401185" lon="6.4374603">
+        <ele>1175.1</ele>
+        <time>2026-09-15T12:06:34Z</time>
+        <extensions>
+          <gpxdata:distance>7206.42</gpxdata:distance>
+          <gpxdata:speed>0.924</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8402945" lon="6.4389643">
+        <ele>1178.8</ele>
+        <time>2026-09-15T12:08:40Z</time>
+        <extensions>
+          <gpxdata:distance>7322.48</gpxdata:distance>
+          <gpxdata:speed>0.917</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8402555" lon="6.4396733">
+        <ele>1179.6</ele>
+        <time>2026-09-15T12:09:39Z</time>
+        <extensions>
+          <gpxdata:distance>7376.58</gpxdata:distance>
+          <gpxdata:speed>0.917</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8401165" lon="6.4402263">
+        <ele>1181.1</ele>
+        <time>2026-09-15T12:10:28Z</time>
+        <extensions>
+          <gpxdata:distance>7421.39</gpxdata:distance>
+          <gpxdata:speed>0.913</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8400774" lon="6.4409613">
+        <ele>1184.2</ele>
+        <time>2026-09-15T12:11:30Z</time>
+        <extensions>
+          <gpxdata:distance>7477.46</gpxdata:distance>
+          <gpxdata:speed>0.904</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8400314" lon="6.4418013">
+        <ele>1183.4</ele>
+        <time>2026-09-15T12:12:40Z</time>
+        <extensions>
+          <gpxdata:distance>7541.56</gpxdata:distance>
+          <gpxdata:speed>0.927</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8401014" lon="6.4426132">
+        <ele>1183.3</ele>
+        <time>2026-09-15T12:13:46Z</time>
+        <extensions>
+          <gpxdata:distance>7603.80</gpxdata:distance>
+          <gpxdata:speed>0.940</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8399654" lon="6.4435592">
+        <ele>1181.1</ele>
+        <time>2026-09-15T12:15:02Z</time>
+        <extensions>
+          <gpxdata:distance>7677.33</gpxdata:distance>
+          <gpxdata:speed>0.969</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8398454" lon="6.4442302">
+        <ele>1176.4</ele>
+        <time>2026-09-15T12:15:54Z</time>
+        <extensions>
+          <gpxdata:distance>7730.08</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8398454" lon="6.4442302">
+        <ele>1176.4</ele>
+        <time>2026-09-15T12:15:54Z</time>
+        <extensions>
+          <gpxdata:distance>7730.08</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8398454" lon="6.4442432">
+        <ele>1176.4</ele>
+        <time>2026-09-15T12:15:55Z</time>
+        <extensions>
+          <gpxdata:distance>7731.07</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8398454" lon="6.4442432">
+        <ele>1176.4</ele>
+        <time>2026-09-15T12:15:55Z</time>
+        <extensions>
+          <gpxdata:distance>7731.07</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8403414" lon="6.4444302">
+        <ele>1172.3</ele>
+        <time>2026-09-15T12:16:53Z</time>
+        <extensions>
+          <gpxdata:distance>7788.03</gpxdata:distance>
+          <gpxdata:speed>0.982</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8406584" lon="6.4445952">
+        <ele>1169.3</ele>
+        <time>2026-09-15T12:17:32Z</time>
+        <extensions>
+          <gpxdata:distance>7825.44</gpxdata:distance>
+          <gpxdata:speed>0.957</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8408674" lon="6.4449192">
+        <ele>1167.3</ele>
+        <time>2026-09-15T12:18:08Z</time>
+        <extensions>
+          <gpxdata:distance>7859.32</gpxdata:distance>
+          <gpxdata:speed>0.947</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8412064" lon="6.4455812">
+        <ele>1163.9</ele>
+        <time>2026-09-15T12:19:15Z</time>
+        <extensions>
+          <gpxdata:distance>7922.22</gpxdata:distance>
+          <gpxdata:speed>0.936</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8415244" lon="6.4459162">
+        <ele>1162.4</ele>
+        <time>2026-09-15T12:20:02Z</time>
+        <extensions>
+          <gpxdata:distance>7965.80</gpxdata:distance>
+          <gpxdata:speed>0.932</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8415223" lon="6.4467422">
+        <ele>1155.7</ele>
+        <time>2026-09-15T12:21:10Z</time>
+        <extensions>
+          <gpxdata:distance>8028.63</gpxdata:distance>
+          <gpxdata:speed>0.927</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8411014" lon="6.4469201">
+        <ele>1152.0</ele>
+        <time>2026-09-15T12:22:02Z</time>
+        <extensions>
+          <gpxdata:distance>8077.34</gpxdata:distance>
+          <gpxdata:speed>0.926</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8405474" lon="6.4474421">
+        <ele>1147.3</ele>
+        <time>2026-09-15T12:23:21Z</time>
+        <extensions>
+          <gpxdata:distance>8150.63</gpxdata:distance>
+          <gpxdata:speed>0.927</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8402464" lon="6.4479720">
+        <ele>1145.2</ele>
+        <time>2026-09-15T12:24:18Z</time>
+        <extensions>
+          <gpxdata:distance>8203.02</gpxdata:distance>
+          <gpxdata:speed>0.931</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8394194" lon="6.4490360">
+        <ele>1142.6</ele>
+        <time>2026-09-15T12:26:28Z</time>
+        <extensions>
+          <gpxdata:distance>8325.52</gpxdata:distance>
+          <gpxdata:speed>0.942</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8439771" lon="6.4528982">
+        <ele>1152.4</ele>
+        <time>2026-09-15T12:36:18Z</time>
+        <extensions>
+          <gpxdata:distance>8911.30</gpxdata:distance>
+          <gpxdata:speed>0.992</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8439771" lon="6.4528982">
+        <ele>1152.4</ele>
+        <time>2026-09-15T12:36:18Z</time>
+        <extensions>
+          <gpxdata:distance>8911.30</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8453100" lon="6.4541463">
+        <ele>1152.9</ele>
+        <time>2026-09-15T12:39:14Z</time>
+        <extensions>
+          <gpxdata:distance>9087.30</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8453100" lon="6.4541463">
+        <ele>1152.9</ele>
+        <time>2026-09-15T12:39:14Z</time>
+        <extensions>
+          <gpxdata:distance>9087.30</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8452800" lon="6.4537143">
+        <ele>1156.1</ele>
+        <time>2026-09-15T12:39:47Z</time>
+        <extensions>
+          <gpxdata:distance>9120.32</gpxdata:distance>
+          <gpxdata:speed>1.011</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8452470" lon="6.4530983">
+        <ele>1158.7</ele>
+        <time>2026-09-15T12:40:34Z</time>
+        <extensions>
+          <gpxdata:distance>9167.32</gpxdata:distance>
+          <gpxdata:speed>0.997</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8453790" lon="6.4527554">
+        <ele>1158.9</ele>
+        <time>2026-09-15T12:41:04Z</time>
+        <extensions>
+          <gpxdata:distance>9197.24</gpxdata:distance>
+          <gpxdata:speed>0.984</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8455790" lon="6.4529084">
+        <ele>1159.7</ele>
+        <time>2026-09-15T12:41:30Z</time>
+        <extensions>
+          <gpxdata:distance>9222.34</gpxdata:distance>
+          <gpxdata:speed>0.976</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8457790" lon="6.4532324">
+        <ele>1161.4</ele>
+        <time>2026-09-15T12:42:04Z</time>
+        <extensions>
+          <gpxdata:distance>9255.53</gpxdata:distance>
+          <gpxdata:speed>0.961</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8459460" lon="6.4538064">
+        <ele>1161.5</ele>
+        <time>2026-09-15T12:42:54Z</time>
+        <extensions>
+          <gpxdata:distance>9302.97</gpxdata:distance>
+          <gpxdata:speed>0.953</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8460320" lon="6.4543164">
+        <ele>1157.0</ele>
+        <time>2026-09-15T12:43:35Z</time>
+        <extensions>
+          <gpxdata:distance>9342.92</gpxdata:distance>
+          <gpxdata:speed>0.985</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8458100" lon="6.4547404">
+        <ele>1150.1</ele>
+        <time>2026-09-15T12:44:15Z</time>
+        <extensions>
+          <gpxdata:distance>9383.53</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8494907" lon="6.4580036">
+        <ele>1123.2</ele>
+        <time>2026-09-15T12:52:32Z</time>
+        <extensions>
+          <gpxdata:distance>9862.17</gpxdata:distance>
+          <gpxdata:speed>0.963</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8506547" lon="6.4574057">
+        <ele>1089.5</ele>
+        <time>2026-09-15T12:55:01Z</time>
+        <extensions>
+          <gpxdata:distance>9999.36</gpxdata:distance>
+          <gpxdata:speed>0.920</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8508877" lon="6.4572697">
+        <ele>1084.2</ele>
+        <time>2026-09-15T12:55:32Z</time>
+        <extensions>
+          <gpxdata:distance>10027.25</gpxdata:distance>
+          <gpxdata:speed>0.909</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8512747" lon="6.4583647">
+        <ele>1083.0</ele>
+        <time>2026-09-15T12:57:15Z</time>
+        <extensions>
+          <gpxdata:distance>10120.98</gpxdata:distance>
+          <gpxdata:speed>0.914</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8514667" lon="6.4597247">
+        <ele>1081.4</ele>
+        <time>2026-09-15T12:59:10Z</time>
+        <extensions>
+          <gpxdata:distance>10226.59</gpxdata:distance>
+          <gpxdata:speed>0.918</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8514667" lon="6.4597247">
+        <ele>1081.4</ele>
+        <time>2026-09-15T12:59:10Z</time>
+        <extensions>
+          <gpxdata:distance>10226.59</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8513607" lon="6.4599367">
+        <ele>1083.8</ele>
+        <time>2026-09-15T12:59:32Z</time>
+        <extensions>
+          <gpxdata:distance>10246.56</gpxdata:distance>
+          <gpxdata:speed>0.913</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8512627" lon="6.4601347">
+        <ele>1084.8</ele>
+        <time>2026-09-15T12:59:52Z</time>
+        <extensions>
+          <gpxdata:distance>10265.14</gpxdata:distance>
+          <gpxdata:speed>0.918</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8512187" lon="6.4601877">
+        <ele>1084.4</ele>
+        <time>2026-09-15T12:59:59Z</time>
+        <extensions>
+          <gpxdata:distance>10271.48</gpxdata:distance>
+          <gpxdata:speed>0.922</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8511467" lon="6.4602287">
+        <ele>1084.2</ele>
+        <time>2026-09-15T13:00:08Z</time>
+        <extensions>
+          <gpxdata:distance>10280.07</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8510937" lon="6.4603087">
+        <ele>1084.4</ele>
+        <time>2026-09-15T13:00:17Z</time>
+        <extensions>
+          <gpxdata:distance>10288.54</gpxdata:distance>
+          <gpxdata:speed>0.990</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8510397" lon="6.4603616">
+        <ele>1084.8</ele>
+        <time>2026-09-15T13:00:24Z</time>
+        <extensions>
+          <gpxdata:distance>10295.77</gpxdata:distance>
+          <gpxdata:speed>1.007</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8509156" lon="6.4604946">
+        <ele>1085.0</ele>
+        <time>2026-09-15T13:00:41Z</time>
+        <extensions>
+          <gpxdata:distance>10312.88</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8508526" lon="6.4605876">
+        <ele>1085.1</ele>
+        <time>2026-09-15T13:00:52Z</time>
+        <extensions>
+          <gpxdata:distance>10322.84</gpxdata:distance>
+          <gpxdata:speed>0.915</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8507466" lon="6.4607476">
+        <ele>1085.8</ele>
+        <time>2026-09-15T13:01:11Z</time>
+        <extensions>
+          <gpxdata:distance>10339.78</gpxdata:distance>
+          <gpxdata:speed>0.914</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8506396" lon="6.4608936">
+        <ele>1086.4</ele>
+        <time>2026-09-15T13:01:28Z</time>
+        <extensions>
+          <gpxdata:distance>10356.05</gpxdata:distance>
+          <gpxdata:speed>0.952</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8505776" lon="6.4609866">
+        <ele>1086.9</ele>
+        <time>2026-09-15T13:01:38Z</time>
+        <extensions>
+          <gpxdata:distance>10365.93</gpxdata:distance>
+          <gpxdata:speed>0.959</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8504796" lon="6.4611196">
+        <ele>1088.1</ele>
+        <time>2026-09-15T13:01:54Z</time>
+        <extensions>
+          <gpxdata:distance>10380.79</gpxdata:distance>
+          <gpxdata:speed>0.926</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8503906" lon="6.4612786">
+        <ele>1089.1</ele>
+        <time>2026-09-15T13:02:11Z</time>
+        <extensions>
+          <gpxdata:distance>10396.42</gpxdata:distance>
+          <gpxdata:speed>0.905</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8502486" lon="6.4614386">
+        <ele>1090.1</ele>
+        <time>2026-09-15T13:02:34Z</time>
+        <extensions>
+          <gpxdata:distance>10416.35</gpxdata:distance>
+          <gpxdata:speed>0.899</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8501246" lon="6.4616236">
+        <ele>1090.3</ele>
+        <time>2026-09-15T13:02:55Z</time>
+        <extensions>
+          <gpxdata:distance>10436.05</gpxdata:distance>
+          <gpxdata:speed>0.913</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8498666" lon="6.4619696">
+        <ele>1088.6</ele>
+        <time>2026-09-15T13:03:36Z</time>
+        <extensions>
+          <gpxdata:distance>10474.98</gpxdata:distance>
+          <gpxdata:speed>0.956</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8496626" lon="6.4623146">
+        <ele>1088.3</ele>
+        <time>2026-09-15T13:04:12Z</time>
+        <extensions>
+          <gpxdata:distance>10509.66</gpxdata:distance>
+          <gpxdata:speed>0.969</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8494846" lon="6.4626056">
+        <ele>1088.7</ele>
+        <time>2026-09-15T13:04:42Z</time>
+        <extensions>
+          <gpxdata:distance>10539.35</gpxdata:distance>
+          <gpxdata:speed>0.976</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8494056" lon="6.4627905">
+        <ele>1088.5</ele>
+        <time>2026-09-15T13:04:59Z</time>
+        <extensions>
+          <gpxdata:distance>10555.93</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8492566" lon="6.4632265">
+        <ele>1090.8</ele>
+        <time>2026-09-15T13:05:37Z</time>
+        <extensions>
+          <gpxdata:distance>10593.00</gpxdata:distance>
+          <gpxdata:speed>0.969</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8492566" lon="6.4632265">
+        <ele>1090.8</ele>
+        <time>2026-09-15T13:05:37Z</time>
+        <extensions>
+          <gpxdata:distance>10593.00</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8492206" lon="6.4633185">
+        <ele>1091.7</ele>
+        <time>2026-09-15T13:05:45Z</time>
+        <extensions>
+          <gpxdata:distance>10601.06</gpxdata:distance>
+          <gpxdata:speed>0.980</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8491856" lon="6.4633845">
+        <ele>1092.5</ele>
+        <time>2026-09-15T13:05:52Z</time>
+        <extensions>
+          <gpxdata:distance>10607.41</gpxdata:distance>
+          <gpxdata:speed>0.981</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8491326" lon="6.4635035">
+        <ele>1093.7</ele>
+        <time>2026-09-15T13:06:03Z</time>
+        <extensions>
+          <gpxdata:distance>10618.21</gpxdata:distance>
+          <gpxdata:speed>0.965</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8490705" lon="6.4635965">
+        <ele>1095.1</ele>
+        <time>2026-09-15T13:06:14Z</time>
+        <extensions>
+          <gpxdata:distance>10628.09</gpxdata:distance>
+          <gpxdata:speed>0.905</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8490085" lon="6.4636895">
+        <ele>1095.6</ele>
+        <time>2026-09-15T13:06:25Z</time>
+        <extensions>
+          <gpxdata:distance>10637.97</gpxdata:distance>
+          <gpxdata:speed>0.867</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8489725" lon="6.4637695">
+        <ele>1095.5</ele>
+        <time>2026-09-15T13:06:34Z</time>
+        <extensions>
+          <gpxdata:distance>10645.25</gpxdata:distance>
+          <gpxdata:speed>0.848</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8489465" lon="6.4638485">
+        <ele>1096.0</ele>
+        <time>2026-09-15T13:06:42Z</time>
+        <extensions>
+          <gpxdata:distance>10651.92</gpxdata:distance>
+          <gpxdata:speed>0.811</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8489465" lon="6.4638485">
+        <ele>1096.0</ele>
+        <time>2026-09-15T13:06:42Z</time>
+        <extensions>
+          <gpxdata:distance>10651.92</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8489115" lon="6.4639535">
+        <ele>1097.0</ele>
+        <time>2026-09-15T13:06:54Z</time>
+        <extensions>
+          <gpxdata:distance>10660.80</gpxdata:distance>
+          <gpxdata:speed>0.776</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8488855" lon="6.4640725">
+        <ele>1097.7</ele>
+        <time>2026-09-15T13:07:06Z</time>
+        <extensions>
+          <gpxdata:distance>10670.30</gpxdata:distance>
+          <gpxdata:speed>0.789</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8488505" lon="6.4642175">
+        <ele>1098.1</ele>
+        <time>2026-09-15T13:07:20Z</time>
+        <extensions>
+          <gpxdata:distance>10682.00</gpxdata:distance>
+          <gpxdata:speed>0.819</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8487905" lon="6.4644935">
+        <ele>1099.0</ele>
+        <time>2026-09-15T13:07:46Z</time>
+        <extensions>
+          <gpxdata:distance>10704.02</gpxdata:distance>
+          <gpxdata:speed>0.855</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8487735" lon="6.4645985">
+        <ele>1099.5</ele>
+        <time>2026-09-15T13:07:55Z</time>
+        <extensions>
+          <gpxdata:distance>10712.23</gpxdata:distance>
+          <gpxdata:speed>0.879</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8487465" lon="6.4647045">
+        <ele>1100.1</ele>
+        <time>2026-09-15T13:08:05Z</time>
+        <extensions>
+          <gpxdata:distance>10720.83</gpxdata:distance>
+          <gpxdata:speed>0.874</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8487035" lon="6.4648755">
+        <ele>1101.2</ele>
+        <time>2026-09-15T13:08:21Z</time>
+        <extensions>
+          <gpxdata:distance>10734.68</gpxdata:distance>
+          <gpxdata:speed>0.849</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8486595" lon="6.4650335">
+        <ele>1102.1</ele>
+        <time>2026-09-15T13:08:36Z</time>
+        <extensions>
+          <gpxdata:distance>10747.66</gpxdata:distance>
+          <gpxdata:speed>0.849</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8485365" lon="6.4653505">
+        <ele>1104.2</ele>
+        <time>2026-09-15T13:09:09Z</time>
+        <extensions>
+          <gpxdata:distance>10775.38</gpxdata:distance>
+          <gpxdata:speed>0.842</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8484925" lon="6.4654565">
+        <ele>1105.0</ele>
+        <time>2026-09-15T13:09:20Z</time>
+        <extensions>
+          <gpxdata:distance>10784.81</gpxdata:distance>
+          <gpxdata:speed>0.847</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8484575" lon="6.4655355">
+        <ele>1105.5</ele>
+        <time>2026-09-15T13:09:29Z</time>
+        <extensions>
+          <gpxdata:distance>10791.96</gpxdata:distance>
+          <gpxdata:speed>0.848</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8484125" lon="6.4656144">
+        <ele>1106.1</ele>
+        <time>2026-09-15T13:09:38Z</time>
+        <extensions>
+          <gpxdata:distance>10799.78</gpxdata:distance>
+          <gpxdata:speed>0.838</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8483865" lon="6.4656804">
+        <ele>1106.5</ele>
+        <time>2026-09-15T13:09:45Z</time>
+        <extensions>
+          <gpxdata:distance>10805.57</gpxdata:distance>
+          <gpxdata:speed>0.823</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8483865" lon="6.4656804">
+        <ele>1106.5</ele>
+        <time>2026-09-15T13:09:45Z</time>
+        <extensions>
+          <gpxdata:distance>10805.57</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8483325" lon="6.4657214">
+        <ele>1107.0</ele>
+        <time>2026-09-15T13:09:54Z</time>
+        <extensions>
+          <gpxdata:distance>10812.33</gpxdata:distance>
+          <gpxdata:speed>0.819</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8482175" lon="6.4658674">
+        <ele>1108.2</ele>
+        <time>2026-09-15T13:10:14Z</time>
+        <extensions>
+          <gpxdata:distance>10829.27</gpxdata:distance>
+          <gpxdata:speed>0.822</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8481635" lon="6.4659474">
+        <ele>1108.7</ele>
+        <time>2026-09-15T13:10:25Z</time>
+        <extensions>
+          <gpxdata:distance>10837.82</gpxdata:distance>
+          <gpxdata:speed>0.824</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8481285" lon="6.4660134">
+        <ele>1109.2</ele>
+        <time>2026-09-15T13:10:32Z</time>
+        <extensions>
+          <gpxdata:distance>10844.17</gpxdata:distance>
+          <gpxdata:speed>0.826</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8480925" lon="6.4660664">
+        <ele>1109.8</ele>
+        <time>2026-09-15T13:10:39Z</time>
+        <extensions>
+          <gpxdata:distance>10849.85</gpxdata:distance>
+          <gpxdata:speed>0.823</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8480315" lon="6.4662384">
+        <ele>1110.7</ele>
+        <time>2026-09-15T13:10:57Z</time>
+        <extensions>
+          <gpxdata:distance>10864.58</gpxdata:distance>
+          <gpxdata:speed>0.829</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479965" lon="6.4663174">
+        <ele>1111.2</ele>
+        <time>2026-09-15T13:11:06Z</time>
+        <extensions>
+          <gpxdata:distance>10871.74</gpxdata:distance>
+          <gpxdata:speed>0.831</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479875" lon="6.4663564">
+        <ele>1111.5</ele>
+        <time>2026-09-15T13:11:09Z</time>
+        <extensions>
+          <gpxdata:distance>10874.87</gpxdata:distance>
+          <gpxdata:speed>0.827</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479695" lon="6.4663704">
+        <ele>1111.8</ele>
+        <time>2026-09-15T13:11:12Z</time>
+        <extensions>
+          <gpxdata:distance>10877.14</gpxdata:distance>
+          <gpxdata:speed>0.822</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479515" lon="6.4663704">
+        <ele>1112.1</ele>
+        <time>2026-09-15T13:11:14Z</time>
+        <extensions>
+          <gpxdata:distance>10879.14</gpxdata:distance>
+          <gpxdata:speed>0.816</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479335" lon="6.4663444">
+        <ele>1112.2</ele>
+        <time>2026-09-15T13:11:18Z</time>
+        <extensions>
+          <gpxdata:distance>10881.96</gpxdata:distance>
+          <gpxdata:speed>0.817</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479335" lon="6.4663444">
+        <ele>1112.2</ele>
+        <time>2026-09-15T13:11:18Z</time>
+        <extensions>
+          <gpxdata:distance>10881.96</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479245" lon="6.4663184">
+        <ele>1112.6</ele>
+        <time>2026-09-15T13:11:21Z</time>
+        <extensions>
+          <gpxdata:distance>10884.17</gpxdata:distance>
+          <gpxdata:speed>0.793</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479145" lon="6.4662924">
+        <ele>1112.9</ele>
+        <time>2026-09-15T13:11:24Z</time>
+        <extensions>
+          <gpxdata:distance>10886.44</gpxdata:distance>
+          <gpxdata:speed>0.794</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479145" lon="6.4662534">
+        <ele>1113.1</ele>
+        <time>2026-09-15T13:11:27Z</time>
+        <extensions>
+          <gpxdata:distance>10889.41</gpxdata:distance>
+          <gpxdata:speed>0.763</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479235" lon="6.4662134">
+        <ele>1113.5</ele>
+        <time>2026-09-15T13:11:32Z</time>
+        <extensions>
+          <gpxdata:distance>10892.61</gpxdata:distance>
+          <gpxdata:speed>0.729</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479305" lon="6.4660694">
+        <ele>1114.3</ele>
+        <time>2026-09-15T13:11:46Z</time>
+        <extensions>
+          <gpxdata:distance>10903.59</gpxdata:distance>
+          <gpxdata:speed>0.760</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479385" lon="6.4659254">
+        <ele>1115.2</ele>
+        <time>2026-09-15T13:12:00Z</time>
+        <extensions>
+          <gpxdata:distance>10914.57</gpxdata:distance>
+          <gpxdata:speed>0.778</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479365" lon="6.4657024">
+        <ele>1116.4</ele>
+        <time>2026-09-15T13:12:22Z</time>
+        <extensions>
+          <gpxdata:distance>10931.54</gpxdata:distance>
+          <gpxdata:speed>0.801</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479255" lon="6.4654274">
+        <ele>1117.9</ele>
+        <time>2026-09-15T13:12:48Z</time>
+        <extensions>
+          <gpxdata:distance>10952.49</gpxdata:distance>
+          <gpxdata:speed>0.804</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479145" lon="6.4652174">
+        <ele>1119.2</ele>
+        <time>2026-09-15T13:13:08Z</time>
+        <extensions>
+          <gpxdata:distance>10968.50</gpxdata:distance>
+          <gpxdata:speed>0.804</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479045" lon="6.4651254">
+        <ele>1119.8</ele>
+        <time>2026-09-15T13:13:16Z</time>
+        <extensions>
+          <gpxdata:distance>10975.59</gpxdata:distance>
+          <gpxdata:speed>0.810</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8479045" lon="6.4650604">
+        <ele>1120.2</ele>
+        <time>2026-09-15T13:13:22Z</time>
+        <extensions>
+          <gpxdata:distance>10980.53</gpxdata:distance>
+          <gpxdata:speed>0.813</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8478765" lon="6.4649034">
+        <ele>1120.9</ele>
+        <time>2026-09-15T13:13:37Z</time>
+        <extensions>
+          <gpxdata:distance>10992.87</gpxdata:distance>
+          <gpxdata:speed>0.819</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8478576" lon="6.4647854">
+        <ele>1121.7</ele>
+        <time>2026-09-15T13:13:49Z</time>
+        <extensions>
+          <gpxdata:distance>11002.09</gpxdata:distance>
+          <gpxdata:speed>0.820</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8478476" lon="6.4647464">
+        <ele>1122.0</ele>
+        <time>2026-09-15T13:13:53Z</time>
+        <extensions>
+          <gpxdata:distance>11005.25</gpxdata:distance>
+          <gpxdata:speed>0.818</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8478206" lon="6.4647204">
+        <ele>1122.3</ele>
+        <time>2026-09-15T13:13:57Z</time>
+        <extensions>
+          <gpxdata:distance>11008.85</gpxdata:distance>
+          <gpxdata:speed>0.819</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8477936" lon="6.4647084">
+        <ele>1122.8</ele>
+        <time>2026-09-15T13:14:01Z</time>
+        <extensions>
+          <gpxdata:distance>11011.99</gpxdata:distance>
+          <gpxdata:speed>0.808</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8477576" lon="6.4647224">
+        <ele>1123.4</ele>
+        <time>2026-09-15T13:14:06Z</time>
+        <extensions>
+          <gpxdata:distance>11016.13</gpxdata:distance>
+          <gpxdata:speed>0.790</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8477216" lon="6.4647484">
+        <ele>1124.2</ele>
+        <time>2026-09-15T13:14:12Z</time>
+        <extensions>
+          <gpxdata:distance>11020.59</gpxdata:distance>
+          <gpxdata:speed>0.764</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8476776" lon="6.4648024">
+        <ele>1124.7</ele>
+        <time>2026-09-15T13:14:20Z</time>
+        <extensions>
+          <gpxdata:distance>11026.98</gpxdata:distance>
+          <gpxdata:speed>0.766</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8476416" lon="6.4648294">
+        <ele>1125.3</ele>
+        <time>2026-09-15T13:14:26Z</time>
+        <extensions>
+          <gpxdata:distance>11031.48</gpxdata:distance>
+          <gpxdata:speed>0.754</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475966" lon="6.4648564">
+        <ele>1125.9</ele>
+        <time>2026-09-15T13:14:34Z</time>
+        <extensions>
+          <gpxdata:distance>11036.89</gpxdata:distance>
+          <gpxdata:speed>0.720</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475606" lon="6.4648564">
+        <ele>1126.2</ele>
+        <time>2026-09-15T13:14:39Z</time>
+        <extensions>
+          <gpxdata:distance>11040.89</gpxdata:distance>
+          <gpxdata:speed>0.714</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475066" lon="6.4648574">
+        <ele>1126.7</ele>
+        <time>2026-09-15T13:14:48Z</time>
+        <extensions>
+          <gpxdata:distance>11046.90</gpxdata:distance>
+          <gpxdata:speed>0.722</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475066" lon="6.4648574">
+        <ele>1126.7</ele>
+        <time>2026-09-15T13:14:48Z</time>
+        <extensions>
+          <gpxdata:distance>11046.90</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475246" lon="6.4647914">
+        <ele>1126.5</ele>
+        <time>2026-09-15T13:14:55Z</time>
+        <extensions>
+          <gpxdata:distance>11052.30</gpxdata:distance>
+          <gpxdata:speed>0.775</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475416" lon="6.4647124">
+        <ele>1126.4</ele>
+        <time>2026-09-15T13:15:02Z</time>
+        <extensions>
+          <gpxdata:distance>11058.60</gpxdata:distance>
+          <gpxdata:speed>0.831</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475496" lon="6.4646204">
+        <ele>1126.2</ele>
+        <time>2026-09-15T13:15:10Z</time>
+        <extensions>
+          <gpxdata:distance>11065.65</gpxdata:distance>
+          <gpxdata:speed>0.900</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475486" lon="6.4645164">
+        <ele>1126.1</ele>
+        <time>2026-09-15T13:15:19Z</time>
+        <extensions>
+          <gpxdata:distance>11073.56</gpxdata:distance>
+          <gpxdata:speed>0.936</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475386" lon="6.4643984">
+        <ele>1125.9</ele>
+        <time>2026-09-15T13:15:28Z</time>
+        <extensions>
+          <gpxdata:distance>11082.60</gpxdata:distance>
+          <gpxdata:speed>0.983</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8475196" lon="6.4642544">
+        <ele>1125.8</ele>
+        <time>2026-09-15T13:15:39Z</time>
+        <extensions>
+          <gpxdata:distance>11093.76</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8474816" lon="6.4640054">
+        <ele>1125.7</ele>
+        <time>2026-09-15T13:15:58Z</time>
+        <extensions>
+          <gpxdata:distance>11113.16</gpxdata:distance>
+          <gpxdata:speed>1.003</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8474246" lon="6.4636394">
+        <ele>1125.7</ele>
+        <time>2026-09-15T13:16:27Z</time>
+        <extensions>
+          <gpxdata:distance>11141.71</gpxdata:distance>
+          <gpxdata:speed>0.999</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8474056" lon="6.4634694">
+        <ele>1125.7</ele>
+        <time>2026-09-15T13:16:40Z</time>
+        <extensions>
+          <gpxdata:distance>11154.81</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8473856" lon="6.4632864">
+        <ele>1125.9</ele>
+        <time>2026-09-15T13:16:54Z</time>
+        <extensions>
+          <gpxdata:distance>11168.90</gpxdata:distance>
+          <gpxdata:speed>1.006</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8473456" lon="6.4628154">
+        <ele>1126.5</ele>
+        <time>2026-09-15T13:17:30Z</time>
+        <extensions>
+          <gpxdata:distance>11205.00</gpxdata:distance>
+          <gpxdata:speed>1.011</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8473067" lon="6.4625014">
+        <ele>1126.7</ele>
+        <time>2026-09-15T13:17:54Z</time>
+        <extensions>
+          <gpxdata:distance>11229.27</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8472877" lon="6.4623574">
+        <ele>1126.8</ele>
+        <time>2026-09-15T13:18:05Z</time>
+        <extensions>
+          <gpxdata:distance>11240.42</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8472687" lon="6.4622264">
+        <ele>1126.8</ele>
+        <time>2026-09-15T13:18:15Z</time>
+        <extensions>
+          <gpxdata:distance>11250.60</gpxdata:distance>
+          <gpxdata:speed>0.999</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8472307" lon="6.4619784">
+        <ele>1127.2</ele>
+        <time>2026-09-15T13:18:34Z</time>
+        <extensions>
+          <gpxdata:distance>11269.93</gpxdata:distance>
+          <gpxdata:speed>0.992</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8471837" lon="6.4617034">
+        <ele>1127.8</ele>
+        <time>2026-09-15T13:18:56Z</time>
+        <extensions>
+          <gpxdata:distance>11291.49</gpxdata:distance>
+          <gpxdata:speed>0.982</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8471267" lon="6.4613894">
+        <ele>1128.4</ele>
+        <time>2026-09-15T13:19:22Z</time>
+        <extensions>
+          <gpxdata:distance>11316.20</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8470337" lon="6.4609984">
+        <ele>1128.3</ele>
+        <time>2026-09-15T13:19:54Z</time>
+        <extensions>
+          <gpxdata:distance>11347.68</gpxdata:distance>
+          <gpxdata:speed>0.978</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8470047" lon="6.4608674">
+        <ele>1128.3</ele>
+        <time>2026-09-15T13:20:05Z</time>
+        <extensions>
+          <gpxdata:distance>11358.15</gpxdata:distance>
+          <gpxdata:speed>0.980</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8469777" lon="6.4607634">
+        <ele>1128.2</ele>
+        <time>2026-09-15T13:20:13Z</time>
+        <extensions>
+          <gpxdata:distance>11366.61</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8469317" lon="6.4606594">
+        <ele>1128.2</ele>
+        <time>2026-09-15T13:20:23Z</time>
+        <extensions>
+          <gpxdata:distance>11376.03</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8468577" lon="6.4605164">
+        <ele>1128.9</ele>
+        <time>2026-09-15T13:20:37Z</time>
+        <extensions>
+          <gpxdata:distance>11389.67</gpxdata:distance>
+          <gpxdata:speed>0.977</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8467938" lon="6.4603604">
+        <ele>1129.6</ele>
+        <time>2026-09-15T13:20:51Z</time>
+        <extensions>
+          <gpxdata:distance>11403.50</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8467478" lon="6.4602034">
+        <ele>1130.1</ele>
+        <time>2026-09-15T13:21:05Z</time>
+        <extensions>
+          <gpxdata:distance>11416.49</gpxdata:distance>
+          <gpxdata:speed>0.962</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8465898" lon="6.4596034">
+        <ele>1131.4</ele>
+        <time>2026-09-15T13:21:56Z</time>
+        <extensions>
+          <gpxdata:distance>11465.38</gpxdata:distance>
+          <gpxdata:speed>0.960</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8463938" lon="6.4587674">
+        <ele>1133.7</ele>
+        <time>2026-09-15T13:23:06Z</time>
+        <extensions>
+          <gpxdata:distance>11532.59</gpxdata:distance>
+          <gpxdata:speed>0.950</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8462998" lon="6.4583234">
+        <ele>1134.5</ele>
+        <time>2026-09-15T13:23:44Z</time>
+        <extensions>
+          <gpxdata:distance>11567.94</gpxdata:distance>
+          <gpxdata:speed>0.941</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8462429" lon="6.4580364">
+        <ele>1135.1</ele>
+        <time>2026-09-15T13:24:08Z</time>
+        <extensions>
+          <gpxdata:distance>11590.67</gpxdata:distance>
+          <gpxdata:speed>0.938</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8461119" lon="6.4573964">
+        <ele>1136.6</ele>
+        <time>2026-09-15T13:25:02Z</time>
+        <extensions>
+          <gpxdata:distance>11641.47</gpxdata:distance>
+          <gpxdata:speed>0.935</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8461119" lon="6.4573964">
+        <ele>1136.6</ele>
+        <time>2026-09-15T13:25:02Z</time>
+        <extensions>
+          <gpxdata:distance>11641.47</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8460749" lon="6.4572783">
+        <ele>1136.8</ele>
+        <time>2026-09-15T13:25:13Z</time>
+        <extensions>
+          <gpxdata:distance>11651.35</gpxdata:distance>
+          <gpxdata:speed>0.936</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8460279" lon="6.4570173">
+        <ele>1137.3</ele>
+        <time>2026-09-15T13:25:35Z</time>
+        <extensions>
+          <gpxdata:distance>11671.88</gpxdata:distance>
+          <gpxdata:speed>0.940</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8458969" lon="6.4564303">
+        <ele>1138.7</ele>
+        <time>2026-09-15T13:26:25Z</time>
+        <extensions>
+          <gpxdata:distance>11718.84</gpxdata:distance>
+          <gpxdata:speed>0.940</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8458129" lon="6.4560513">
+        <ele>1139.7</ele>
+        <time>2026-09-15T13:26:57Z</time>
+        <extensions>
+          <gpxdata:distance>11749.14</gpxdata:distance>
+          <gpxdata:speed>0.938</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8457469" lon="6.4558033">
+        <ele>1140.1</ele>
+        <time>2026-09-15T13:27:18Z</time>
+        <extensions>
+          <gpxdata:distance>11769.38</gpxdata:distance>
+          <gpxdata:speed>0.944</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8455980" lon="6.4551243">
+        <ele>1142.0</ele>
+        <time>2026-09-15T13:28:16Z</time>
+        <extensions>
+          <gpxdata:distance>11823.61</gpxdata:distance>
+          <gpxdata:speed>0.938</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8455510" lon="6.4549543">
+        <ele>1142.6</ele>
+        <time>2026-09-15T13:28:31Z</time>
+        <extensions>
+          <gpxdata:distance>11837.55</gpxdata:distance>
+          <gpxdata:speed>0.935</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8455050" lon="6.4548503">
+        <ele>1143.0</ele>
+        <time>2026-09-15T13:28:41Z</time>
+        <extensions>
+          <gpxdata:distance>11846.97</gpxdata:distance>
+          <gpxdata:speed>0.933</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8454780" lon="6.4547723">
+        <ele>1143.3</ele>
+        <time>2026-09-15T13:28:48Z</time>
+        <extensions>
+          <gpxdata:distance>11853.62</gpxdata:distance>
+          <gpxdata:speed>0.932</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8454320" lon="6.4547073">
+        <ele>1143.8</ele>
+        <time>2026-09-15T13:28:56Z</time>
+        <extensions>
+          <gpxdata:distance>11860.73</gpxdata:distance>
+          <gpxdata:speed>0.928</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8453870" lon="6.4546563">
+        <ele>1144.0</ele>
+        <time>2026-09-15T13:29:03Z</time>
+        <extensions>
+          <gpxdata:distance>11867.06</gpxdata:distance>
+          <gpxdata:speed>0.925</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8453600" lon="6.4546303">
+        <ele>1144.2</ele>
+        <time>2026-09-15T13:29:07Z</time>
+        <extensions>
+          <gpxdata:distance>11870.66</gpxdata:distance>
+          <gpxdata:speed>0.920</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8453230" lon="6.4546183">
+        <ele>1144.2</ele>
+        <time>2026-09-15T13:29:11Z</time>
+        <extensions>
+          <gpxdata:distance>11874.87</gpxdata:distance>
+          <gpxdata:speed>0.922</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8453230" lon="6.4546183">
+        <ele>1144.2</ele>
+        <time>2026-09-15T13:29:11Z</time>
+        <extensions>
+          <gpxdata:distance>11874.87</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8452960" lon="6.4546183">
+        <ele>1144.2</ele>
+        <time>2026-09-15T13:29:15Z</time>
+        <extensions>
+          <gpxdata:distance>11877.88</gpxdata:distance>
+          <gpxdata:speed>0.909</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8452600" lon="6.4546193">
+        <ele>1144.3</ele>
+        <time>2026-09-15T13:29:19Z</time>
+        <extensions>
+          <gpxdata:distance>11881.88</gpxdata:distance>
+          <gpxdata:speed>0.915</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8452070" lon="6.4546333">
+        <ele>1144.4</ele>
+        <time>2026-09-15T13:29:26Z</time>
+        <extensions>
+          <gpxdata:distance>11887.87</gpxdata:distance>
+          <gpxdata:speed>0.925</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8451620" lon="6.4546733">
+        <ele>1144.4</ele>
+        <time>2026-09-15T13:29:32Z</time>
+        <extensions>
+          <gpxdata:distance>11893.72</gpxdata:distance>
+          <gpxdata:speed>0.943</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8451260" lon="6.4547133">
+        <ele>1144.4</ele>
+        <time>2026-09-15T13:29:37Z</time>
+        <extensions>
+          <gpxdata:distance>11898.75</gpxdata:distance>
+          <gpxdata:speed>0.972</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8450820" lon="6.4547793">
+        <ele>1144.3</ele>
+        <time>2026-09-15T13:29:44Z</time>
+        <extensions>
+          <gpxdata:distance>11905.76</gpxdata:distance>
+          <gpxdata:speed>0.993</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8450380" lon="6.4548463">
+        <ele>1144.1</ele>
+        <time>2026-09-15T13:29:51Z</time>
+        <extensions>
+          <gpxdata:distance>11912.83</gpxdata:distance>
+          <gpxdata:speed>1.009</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8449660" lon="6.4549263">
+        <ele>1143.9</ele>
+        <time>2026-09-15T13:30:01Z</time>
+        <extensions>
+          <gpxdata:distance>11922.88</gpxdata:distance>
+          <gpxdata:speed>1.004</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8446900" lon="6.4552063">
+        <ele>1141.9</ele>
+        <time>2026-09-15T13:30:39Z</time>
+        <extensions>
+          <gpxdata:distance>11960.24</gpxdata:distance>
+          <gpxdata:speed>0.978</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8444670" lon="6.4554332">
+        <ele>1140.7</ele>
+        <time>2026-09-15T13:31:10Z</time>
+        <extensions>
+          <gpxdata:distance>11990.45</gpxdata:distance>
+          <gpxdata:speed>0.972</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8444040" lon="6.4555002">
+        <ele>1140.7</ele>
+        <time>2026-09-15T13:31:19Z</time>
+        <extensions>
+          <gpxdata:distance>11999.11</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8443420" lon="6.4555532">
+        <ele>1140.7</ele>
+        <time>2026-09-15T13:31:27Z</time>
+        <extensions>
+          <gpxdata:distance>12007.10</gpxdata:distance>
+          <gpxdata:speed>0.972</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8442700" lon="6.4555812">
+        <ele>1140.7</ele>
+        <time>2026-09-15T13:31:36Z</time>
+        <extensions>
+          <gpxdata:distance>12015.38</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8442070" lon="6.4555952">
+        <ele>1140.9</ele>
+        <time>2026-09-15T13:31:43Z</time>
+        <extensions>
+          <gpxdata:distance>12022.47</gpxdata:distance>
+          <gpxdata:speed>0.976</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8441540" lon="6.4556092">
+        <ele>1141.0</ele>
+        <time>2026-09-15T13:31:49Z</time>
+        <extensions>
+          <gpxdata:distance>12028.45</gpxdata:distance>
+          <gpxdata:speed>0.978</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8440990" lon="6.4555972">
+        <ele>1141.0</ele>
+        <time>2026-09-15T13:31:56Z</time>
+        <extensions>
+          <gpxdata:distance>12034.64</gpxdata:distance>
+          <gpxdata:speed>0.980</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8440360" lon="6.4555852">
+        <ele>1141.1</ele>
+        <time>2026-09-15T13:32:03Z</time>
+        <extensions>
+          <gpxdata:distance>12041.70</gpxdata:distance>
+          <gpxdata:speed>0.982</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8439731" lon="6.4555472">
+        <ele>1141.1</ele>
+        <time>2026-09-15T13:32:10Z</time>
+        <extensions>
+          <gpxdata:distance>12049.27</gpxdata:distance>
+          <gpxdata:speed>1.001</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8439101" lon="6.4555092">
+        <ele>1141.0</ele>
+        <time>2026-09-15T13:32:18Z</time>
+        <extensions>
+          <gpxdata:distance>12056.85</gpxdata:distance>
+          <gpxdata:speed>1.001</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8438371" lon="6.4554312">
+        <ele>1140.8</ele>
+        <time>2026-09-15T13:32:28Z</time>
+        <extensions>
+          <gpxdata:distance>12066.90</gpxdata:distance>
+          <gpxdata:speed>1.009</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8437821" lon="6.4553542">
+        <ele>1140.7</ele>
+        <time>2026-09-15T13:32:36Z</time>
+        <extensions>
+          <gpxdata:distance>12075.37</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8437101" lon="6.4552502">
+        <ele>1140.7</ele>
+        <time>2026-09-15T13:32:47Z</time>
+        <extensions>
+          <gpxdata:distance>12086.62</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8436551" lon="6.4551722">
+        <ele>1140.9</ele>
+        <time>2026-09-15T13:32:56Z</time>
+        <extensions>
+          <gpxdata:distance>12095.14</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8436091" lon="6.4550682">
+        <ele>1141.0</ele>
+        <time>2026-09-15T13:33:05Z</time>
+        <extensions>
+          <gpxdata:distance>12104.56</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8435721" lon="6.4549772">
+        <ele>1141.3</ele>
+        <time>2026-09-15T13:33:13Z</time>
+        <extensions>
+          <gpxdata:distance>12112.62</gpxdata:distance>
+          <gpxdata:speed>1.003</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8435351" lon="6.4548732">
+        <ele>1141.6</ele>
+        <time>2026-09-15T13:33:22Z</time>
+        <extensions>
+          <gpxdata:distance>12121.53</gpxdata:distance>
+          <gpxdata:speed>0.996</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8434241" lon="6.4544692">
+        <ele>1142.3</ele>
+        <time>2026-09-15T13:33:56Z</time>
+        <extensions>
+          <gpxdata:distance>12154.64</gpxdata:distance>
+          <gpxdata:speed>0.983</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8433771" lon="6.4542732">
+        <ele>1142.4</ele>
+        <time>2026-09-15T13:34:12Z</time>
+        <extensions>
+          <gpxdata:distance>12170.44</gpxdata:distance>
+          <gpxdata:speed>0.981</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8432851" lon="6.4539602">
+        <ele>1142.4</ele>
+        <time>2026-09-15T13:34:38Z</time>
+        <extensions>
+          <gpxdata:distance>12196.35</gpxdata:distance>
+          <gpxdata:speed>0.981</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8432471" lon="6.4538032">
+        <ele>1142.5</ele>
+        <time>2026-09-15T13:34:51Z</time>
+        <extensions>
+          <gpxdata:distance>12209.02</gpxdata:distance>
+          <gpxdata:speed>0.978</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8432191" lon="6.4536992">
+        <ele>1142.7</ele>
+        <time>2026-09-15T13:35:00Z</time>
+        <extensions>
+          <gpxdata:distance>12217.52</gpxdata:distance>
+          <gpxdata:speed>0.974</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8432011" lon="6.4536082">
+        <ele>1142.9</ele>
+        <time>2026-09-15T13:35:07Z</time>
+        <extensions>
+          <gpxdata:distance>12224.72</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8431731" lon="6.4535562">
+        <ele>1142.9</ele>
+        <time>2026-09-15T13:35:13Z</time>
+        <extensions>
+          <gpxdata:distance>12229.76</gpxdata:distance>
+          <gpxdata:speed>0.974</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8431551" lon="6.4535172">
+        <ele>1143.0</ele>
+        <time>2026-09-15T13:35:16Z</time>
+        <extensions>
+          <gpxdata:distance>12233.34</gpxdata:distance>
+          <gpxdata:speed>0.977</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8431281" lon="6.4535041">
+        <ele>1143.0</ele>
+        <time>2026-09-15T13:35:19Z</time>
+        <extensions>
+          <gpxdata:distance>12236.50</gpxdata:distance>
+          <gpxdata:speed>0.981</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8431281" lon="6.4535041">
+        <ele>1143.0</ele>
+        <time>2026-09-15T13:35:19Z</time>
+        <extensions>
+          <gpxdata:distance>12236.50</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8431101" lon="6.4534911">
+        <ele>1143.0</ele>
+        <time>2026-09-15T13:35:22Z</time>
+        <extensions>
+          <gpxdata:distance>12238.73</gpxdata:distance>
+          <gpxdata:speed>0.990</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8430651" lon="6.4534791">
+        <ele>1143.1</ele>
+        <time>2026-09-15T13:35:27Z</time>
+        <extensions>
+          <gpxdata:distance>12243.82</gpxdata:distance>
+          <gpxdata:speed>0.975</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8430201" lon="6.4534671">
+        <ele>1143.3</ele>
+        <time>2026-09-15T13:35:32Z</time>
+        <extensions>
+          <gpxdata:distance>12248.90</gpxdata:distance>
+          <gpxdata:speed>0.961</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8429482" lon="6.4534811">
+        <ele>1143.7</ele>
+        <time>2026-09-15T13:35:41Z</time>
+        <extensions>
+          <gpxdata:distance>12256.97</gpxdata:distance>
+          <gpxdata:speed>0.948</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8428762" lon="6.4534951">
+        <ele>1144.1</ele>
+        <time>2026-09-15T13:35:49Z</time>
+        <extensions>
+          <gpxdata:distance>12265.05</gpxdata:distance>
+          <gpxdata:speed>0.937</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8427142" lon="6.4535511">
+        <ele>1145.1</ele>
+        <time>2026-09-15T13:36:10Z</time>
+        <extensions>
+          <gpxdata:distance>12283.56</gpxdata:distance>
+          <gpxdata:speed>0.909</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8425982" lon="6.4535791">
+        <ele>1145.9</ele>
+        <time>2026-09-15T13:36:24Z</time>
+        <extensions>
+          <gpxdata:distance>12296.63</gpxdata:distance>
+          <gpxdata:speed>0.896</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8422302" lon="6.4537171">
+        <ele>1146.8</ele>
+        <time>2026-09-15T13:37:10Z</time>
+        <extensions>
+          <gpxdata:distance>12338.87</gpxdata:distance>
+          <gpxdata:speed>0.918</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8421672" lon="6.4537581">
+        <ele>1146.7</ele>
+        <time>2026-09-15T13:37:19Z</time>
+        <extensions>
+          <gpxdata:distance>12346.54</gpxdata:distance>
+          <gpxdata:speed>0.927</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8421052" lon="6.4537850">
+        <ele>1146.7</ele>
+        <time>2026-09-15T13:37:26Z</time>
+        <extensions>
+          <gpxdata:distance>12353.73</gpxdata:distance>
+          <gpxdata:speed>0.931</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420422" lon="6.4538250">
+        <ele>1146.5</ele>
+        <time>2026-09-15T13:37:34Z</time>
+        <extensions>
+          <gpxdata:distance>12361.37</gpxdata:distance>
+          <gpxdata:speed>0.939</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420422" lon="6.4538250">
+        <ele>1146.5</ele>
+        <time>2026-09-15T13:37:34Z</time>
+        <extensions>
+          <gpxdata:distance>12361.37</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420442" lon="6.4539960">
+        <ele>1146.1</ele>
+        <time>2026-09-15T13:37:48Z</time>
+        <extensions>
+          <gpxdata:distance>12374.38</gpxdata:distance>
+          <gpxdata:speed>0.960</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420532" lon="6.4540870">
+        <ele>1145.7</ele>
+        <time>2026-09-15T13:37:55Z</time>
+        <extensions>
+          <gpxdata:distance>12381.37</gpxdata:distance>
+          <gpxdata:speed>0.977</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420912" lon="6.4542700">
+        <ele>1144.7</ele>
+        <time>2026-09-15T13:38:10Z</time>
+        <extensions>
+          <gpxdata:distance>12395.92</gpxdata:distance>
+          <gpxdata:speed>1.008</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8421102" lon="6.4543620">
+        <ele>1144.1</ele>
+        <time>2026-09-15T13:38:17Z</time>
+        <extensions>
+          <gpxdata:distance>12403.23</gpxdata:distance>
+          <gpxdata:speed>0.991</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8421202" lon="6.4544660">
+        <ele>1143.2</ele>
+        <time>2026-09-15T13:38:25Z</time>
+        <extensions>
+          <gpxdata:distance>12411.21</gpxdata:distance>
+          <gpxdata:speed>0.948</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8421202" lon="6.4545580">
+        <ele>1142.5</ele>
+        <time>2026-09-15T13:38:33Z</time>
+        <extensions>
+          <gpxdata:distance>12418.21</gpxdata:distance>
+          <gpxdata:speed>0.939</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8421122" lon="6.4546630">
+        <ele>1141.7</ele>
+        <time>2026-09-15T13:38:41Z</time>
+        <extensions>
+          <gpxdata:distance>12426.25</gpxdata:distance>
+          <gpxdata:speed>0.928</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8421042" lon="6.4547680">
+        <ele>1140.8</ele>
+        <time>2026-09-15T13:38:50Z</time>
+        <extensions>
+          <gpxdata:distance>12434.28</gpxdata:distance>
+          <gpxdata:speed>0.918</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420622" lon="6.4551360">
+        <ele>1138.1</ele>
+        <time>2026-09-15T13:39:21Z</time>
+        <extensions>
+          <gpxdata:distance>12462.66</gpxdata:distance>
+          <gpxdata:speed>0.913</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420462" lon="6.4552810">
+        <ele>1137.1</ele>
+        <time>2026-09-15T13:39:34Z</time>
+        <extensions>
+          <gpxdata:distance>12473.83</gpxdata:distance>
+          <gpxdata:speed>0.905</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420382" lon="6.4554380">
+        <ele>1136.0</ele>
+        <time>2026-09-15T13:39:47Z</time>
+        <extensions>
+          <gpxdata:distance>12485.81</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420302" lon="6.4555820">
+        <ele>1135.2</ele>
+        <time>2026-09-15T13:39:59Z</time>
+        <extensions>
+          <gpxdata:distance>12496.79</gpxdata:distance>
+          <gpxdata:speed>0.901</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420312" lon="6.4556870">
+        <ele>1134.7</ele>
+        <time>2026-09-15T13:40:08Z</time>
+        <extensions>
+          <gpxdata:distance>12504.78</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420412" lon="6.4558310">
+        <ele>1134.1</ele>
+        <time>2026-09-15T13:40:20Z</time>
+        <extensions>
+          <gpxdata:distance>12515.79</gpxdata:distance>
+          <gpxdata:speed>0.908</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420511" lon="6.4559620">
+        <ele>1133.3</ele>
+        <time>2026-09-15T13:40:31Z</time>
+        <extensions>
+          <gpxdata:distance>12525.81</gpxdata:distance>
+          <gpxdata:speed>0.910</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420521" lon="6.4560540">
+        <ele>1132.6</ele>
+        <time>2026-09-15T13:40:39Z</time>
+        <extensions>
+          <gpxdata:distance>12532.81</gpxdata:distance>
+          <gpxdata:speed>0.910</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420441" lon="6.4561330">
+        <ele>1132.1</ele>
+        <time>2026-09-15T13:40:45Z</time>
+        <extensions>
+          <gpxdata:distance>12538.89</gpxdata:distance>
+          <gpxdata:speed>0.912</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8420271" lon="6.4562120">
+        <ele>1131.5</ele>
+        <time>2026-09-15T13:40:52Z</time>
+        <extensions>
+          <gpxdata:distance>12545.19</gpxdata:distance>
+          <gpxdata:speed>0.916</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8419651" lon="6.4564100">
+        <ele>1130.1</ele>
+        <time>2026-09-15T13:41:10Z</time>
+        <extensions>
+          <gpxdata:distance>12561.75</gpxdata:distance>
+          <gpxdata:speed>0.916</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8418951" lon="6.4566340">
+        <ele>1128.5</ele>
+        <time>2026-09-15T13:41:31Z</time>
+        <extensions>
+          <gpxdata:distance>12580.48</gpxdata:distance>
+          <gpxdata:speed>0.917</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8418171" lon="6.4568970">
+        <ele>1126.7</ele>
+        <time>2026-09-15T13:41:55Z</time>
+        <extensions>
+          <gpxdata:distance>12602.28</gpxdata:distance>
+          <gpxdata:speed>0.915</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8417901" lon="6.4569770">
+        <ele>1126.1</ele>
+        <time>2026-09-15T13:42:02Z</time>
+        <extensions>
+          <gpxdata:distance>12609.07</gpxdata:distance>
+          <gpxdata:speed>0.913</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8417731" lon="6.4570159">
+        <ele>1125.7</ele>
+        <time>2026-09-15T13:42:06Z</time>
+        <extensions>
+          <gpxdata:distance>12612.58</gpxdata:distance>
+          <gpxdata:speed>0.909</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8417371" lon="6.4570819">
+        <ele>1125.1</ele>
+        <time>2026-09-15T13:42:13Z</time>
+        <extensions>
+          <gpxdata:distance>12619.00</gpxdata:distance>
+          <gpxdata:speed>0.907</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8417111" lon="6.4571219">
+        <ele>1124.7</ele>
+        <time>2026-09-15T13:42:18Z</time>
+        <extensions>
+          <gpxdata:distance>12623.20</gpxdata:distance>
+          <gpxdata:speed>0.908</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8416751" lon="6.4571619">
+        <ele>1124.2</ele>
+        <time>2026-09-15T13:42:23Z</time>
+        <extensions>
+          <gpxdata:distance>12628.22</gpxdata:distance>
+          <gpxdata:speed>0.907</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8416211" lon="6.4571889">
+        <ele>1123.7</ele>
+        <time>2026-09-15T13:42:30Z</time>
+        <extensions>
+          <gpxdata:distance>12634.57</gpxdata:distance>
+          <gpxdata:speed>0.908</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8415412" lon="6.4572429">
+        <ele>1122.7</ele>
+        <time>2026-09-15T13:42:41Z</time>
+        <extensions>
+          <gpxdata:distance>12644.36</gpxdata:distance>
+          <gpxdata:speed>0.906</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8414602" lon="6.4572839">
+        <ele>1121.9</ele>
+        <time>2026-09-15T13:42:52Z</time>
+        <extensions>
+          <gpxdata:distance>12653.89</gpxdata:distance>
+          <gpxdata:speed>0.905</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8414242" lon="6.4573109">
+        <ele>1121.5</ele>
+        <time>2026-09-15T13:42:57Z</time>
+        <extensions>
+          <gpxdata:distance>12658.39</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8413892" lon="6.4573639">
+        <ele>1121.0</ele>
+        <time>2026-09-15T13:43:03Z</time>
+        <extensions>
+          <gpxdata:distance>12663.99</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8413532" lon="6.4574299">
+        <ele>1120.6</ele>
+        <time>2026-09-15T13:43:10Z</time>
+        <extensions>
+          <gpxdata:distance>12670.41</gpxdata:distance>
+          <gpxdata:speed>0.907</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8413272" lon="6.4574959">
+        <ele>1120.2</ele>
+        <time>2026-09-15T13:43:16Z</time>
+        <extensions>
+          <gpxdata:distance>12676.20</gpxdata:distance>
+          <gpxdata:speed>0.910</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8413012" lon="6.4575889">
+        <ele>1119.7</ele>
+        <time>2026-09-15T13:43:25Z</time>
+        <extensions>
+          <gpxdata:distance>12683.85</gpxdata:distance>
+          <gpxdata:speed>0.913</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8412662" lon="6.4577599">
+        <ele>1118.7</ele>
+        <time>2026-09-15T13:43:39Z</time>
+        <extensions>
+          <gpxdata:distance>12697.42</gpxdata:distance>
+          <gpxdata:speed>0.916</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8412232" lon="6.4579829">
+        <ele>1117.6</ele>
+        <time>2026-09-15T13:43:59Z</time>
+        <extensions>
+          <gpxdata:distance>12715.04</gpxdata:distance>
+          <gpxdata:speed>0.920</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8411891" lon="6.4581809">
+        <ele>1117.3</ele>
+        <time>2026-09-15T13:44:15Z</time>
+        <extensions>
+          <gpxdata:distance>12730.57</gpxdata:distance>
+          <gpxdata:speed>0.935</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8411291" lon="6.4585879">
+        <ele>1117.1</ele>
+        <time>2026-09-15T13:44:48Z</time>
+        <extensions>
+          <gpxdata:distance>12762.24</gpxdata:distance>
+          <gpxdata:speed>0.955</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8410961" lon="6.4588249">
+        <ele>1116.6</ele>
+        <time>2026-09-15T13:45:07Z</time>
+        <extensions>
+          <gpxdata:distance>12780.64</gpxdata:distance>
+          <gpxdata:speed>0.961</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8410441" lon="6.4590878">
+        <ele>1115.8</ele>
+        <time>2026-09-15T13:45:29Z</time>
+        <extensions>
+          <gpxdata:distance>12801.45</gpxdata:distance>
+          <gpxdata:speed>0.964</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8409831" lon="6.4593638">
+        <ele>1115.1</ele>
+        <time>2026-09-15T13:45:52Z</time>
+        <extensions>
+          <gpxdata:distance>12823.51</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8409481" lon="6.4595088">
+        <ele>1114.7</ele>
+        <time>2026-09-15T13:46:04Z</time>
+        <extensions>
+          <gpxdata:distance>12835.21</gpxdata:distance>
+          <gpxdata:speed>0.968</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8408961" lon="6.4596408">
+        <ele>1114.1</ele>
+        <time>2026-09-15T13:46:16Z</time>
+        <extensions>
+          <gpxdata:distance>12846.79</gpxdata:distance>
+          <gpxdata:speed>0.968</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8408431" lon="6.4597468">
+        <ele>1113.5</ele>
+        <time>2026-09-15T13:46:26Z</time>
+        <extensions>
+          <gpxdata:distance>12856.78</gpxdata:distance>
+          <gpxdata:speed>0.970</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8407631" lon="6.4598928">
+        <ele>1112.7</ele>
+        <time>2026-09-15T13:46:41Z</time>
+        <extensions>
+          <gpxdata:distance>12871.01</gpxdata:distance>
+          <gpxdata:speed>0.972</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8406121" lon="6.4601048">
+        <ele>1111.5</ele>
+        <time>2026-09-15T13:47:05Z</time>
+        <extensions>
+          <gpxdata:distance>12894.29</gpxdata:distance>
+          <gpxdata:speed>0.967</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8405051" lon="6.4602638">
+        <ele>1110.9</ele>
+        <time>2026-09-15T13:47:23Z</time>
+        <extensions>
+          <gpxdata:distance>12911.25</gpxdata:distance>
+          <gpxdata:speed>0.959</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8403901" lon="6.4604498">
+        <ele>1110.0</ele>
+        <time>2026-09-15T13:47:43Z</time>
+        <extensions>
+          <gpxdata:distance>12930.32</gpxdata:distance>
+          <gpxdata:speed>0.956</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8403281" lon="6.4605428">
+        <ele>1109.3</ele>
+        <time>2026-09-15T13:47:53Z</time>
+        <extensions>
+          <gpxdata:distance>12940.20</gpxdata:distance>
+          <gpxdata:speed>0.952</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8400611" lon="6.4608757">
+        <ele>1106.8</ele>
+        <time>2026-09-15T13:48:34Z</time>
+        <extensions>
+          <gpxdata:distance>12979.22</gpxdata:distance>
+          <gpxdata:speed>0.945</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8398821" lon="6.4610887">
+        <ele>1104.7</ele>
+        <time>2026-09-15T13:49:02Z</time>
+        <extensions>
+          <gpxdata:distance>13004.89</gpxdata:distance>
+          <gpxdata:speed>0.939</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8398381" lon="6.4611807">
+        <ele>1103.8</ele>
+        <time>2026-09-15T13:49:11Z</time>
+        <extensions>
+          <gpxdata:distance>13013.42</gpxdata:distance>
+          <gpxdata:speed>0.935</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8397941" lon="6.4612477">
+        <ele>1102.9</ele>
+        <time>2026-09-15T13:49:18Z</time>
+        <extensions>
+          <gpxdata:distance>13020.49</gpxdata:distance>
+          <gpxdata:speed>0.932</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8397761" lon="6.4612997">
+        <ele>1102.5</ele>
+        <time>2026-09-15T13:49:23Z</time>
+        <extensions>
+          <gpxdata:distance>13024.92</gpxdata:distance>
+          <gpxdata:speed>0.931</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8397761" lon="6.4612997">
+        <ele>1102.5</ele>
+        <time>2026-09-15T13:49:23Z</time>
+        <extensions>
+          <gpxdata:distance>13024.92</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8397501" lon="6.4613397">
+        <ele>1102.6</ele>
+        <time>2026-09-15T13:49:28Z</time>
+        <extensions>
+          <gpxdata:distance>13029.12</gpxdata:distance>
+          <gpxdata:speed>0.926</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8396251" lon="6.4614597">
+        <ele>1103.3</ele>
+        <time>2026-09-15T13:49:45Z</time>
+        <extensions>
+          <gpxdata:distance>13045.75</gpxdata:distance>
+          <gpxdata:speed>0.939</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8395181" lon="6.4615537">
+        <ele>1103.7</ele>
+        <time>2026-09-15T13:50:00Z</time>
+        <extensions>
+          <gpxdata:distance>13059.63</gpxdata:distance>
+          <gpxdata:speed>0.952</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8394641" lon="6.4615937">
+        <ele>1104.0</ele>
+        <time>2026-09-15T13:50:07Z</time>
+        <extensions>
+          <gpxdata:distance>13066.36</gpxdata:distance>
+          <gpxdata:speed>0.971</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8392951" lon="6.4617807">
+        <ele>1104.7</ele>
+        <time>2026-09-15T13:50:30Z</time>
+        <extensions>
+          <gpxdata:distance>13089.93</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8390091" lon="6.4620746">
+        <ele>1106.0</ele>
+        <time>2026-09-15T13:51:10Z</time>
+        <extensions>
+          <gpxdata:distance>13128.80</gpxdata:distance>
+          <gpxdata:speed>0.964</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8388931" lon="6.4621946">
+        <ele>1106.5</ele>
+        <time>2026-09-15T13:51:27Z</time>
+        <extensions>
+          <gpxdata:distance>13144.60</gpxdata:distance>
+          <gpxdata:speed>0.939</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8388311" lon="6.4622606">
+        <ele>1106.8</ele>
+        <time>2026-09-15T13:51:36Z</time>
+        <extensions>
+          <gpxdata:distance>13153.13</gpxdata:distance>
+          <gpxdata:speed>0.927</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8387781" lon="6.4623406">
+        <ele>1107.2</ele>
+        <time>2026-09-15T13:51:46Z</time>
+        <extensions>
+          <gpxdata:distance>13161.60</gpxdata:distance>
+          <gpxdata:speed>0.925</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8387251" lon="6.4624336">
+        <ele>1107.6</ele>
+        <time>2026-09-15T13:51:56Z</time>
+        <extensions>
+          <gpxdata:distance>13170.81</gpxdata:distance>
+          <gpxdata:speed>0.923</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8386001" lon="6.4626586">
+        <ele>1108.1</ele>
+        <time>2026-09-15T13:52:19Z</time>
+        <extensions>
+          <gpxdata:distance>13192.86</gpxdata:distance>
+          <gpxdata:speed>0.930</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8384941" lon="6.4628836">
+        <ele>1108.8</ele>
+        <time>2026-09-15T13:52:42Z</time>
+        <extensions>
+          <gpxdata:distance>13213.64</gpxdata:distance>
+          <gpxdata:speed>0.928</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8384411" lon="6.4630026">
+        <ele>1109.1</ele>
+        <time>2026-09-15T13:52:53Z</time>
+        <extensions>
+          <gpxdata:distance>13224.44</gpxdata:distance>
+          <gpxdata:speed>0.930</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8383981" lon="6.4631476">
+        <ele>1109.6</ele>
+        <time>2026-09-15T13:53:06Z</time>
+        <extensions>
+          <gpxdata:distance>13236.46</gpxdata:distance>
+          <gpxdata:speed>0.928</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8382931" lon="6.4635025">
+        <ele>1111.2</ele>
+        <time>2026-09-15T13:53:38Z</time>
+        <extensions>
+          <gpxdata:distance>13265.87</gpxdata:distance>
+          <gpxdata:speed>0.916</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8382061" lon="6.4638975">
+        <ele>1112.1</ele>
+        <time>2026-09-15T13:54:13Z</time>
+        <extensions>
+          <gpxdata:distance>13297.43</gpxdata:distance>
+          <gpxdata:speed>0.919</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8381801" lon="6.4639905">
+        <ele>1112.1</ele>
+        <time>2026-09-15T13:54:21Z</time>
+        <extensions>
+          <gpxdata:distance>13305.08</gpxdata:distance>
+          <gpxdata:speed>0.924</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8381451" lon="6.4640825">
+        <ele>1112.1</ele>
+        <time>2026-09-15T13:54:30Z</time>
+        <extensions>
+          <gpxdata:distance>13313.08</gpxdata:distance>
+          <gpxdata:speed>0.930</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8380921" lon="6.4642145">
+        <ele>1112.1</ele>
+        <time>2026-09-15T13:54:42Z</time>
+        <extensions>
+          <gpxdata:distance>13324.73</gpxdata:distance>
+          <gpxdata:speed>0.938</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8380481" lon="6.4642935">
+        <ele>1112.1</ele>
+        <time>2026-09-15T13:54:50Z</time>
+        <extensions>
+          <gpxdata:distance>13332.47</gpxdata:distance>
+          <gpxdata:speed>0.940</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8380031" lon="6.4643475">
+        <ele>1112.1</ele>
+        <time>2026-09-15T13:54:57Z</time>
+        <extensions>
+          <gpxdata:distance>13338.95</gpxdata:distance>
+          <gpxdata:speed>0.946</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8379501" lon="6.4644005">
+        <ele>1112.0</ele>
+        <time>2026-09-15T13:55:05Z</time>
+        <extensions>
+          <gpxdata:distance>13346.09</gpxdata:distance>
+          <gpxdata:speed>0.952</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8378781" lon="6.4644545">
+        <ele>1112.2</ele>
+        <time>2026-09-15T13:55:14Z</time>
+        <extensions>
+          <gpxdata:distance>13355.09</gpxdata:distance>
+          <gpxdata:speed>0.957</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8378071" lon="6.4644945">
+        <ele>1112.5</ele>
+        <time>2026-09-15T13:55:23Z</time>
+        <extensions>
+          <gpxdata:distance>13363.55</gpxdata:distance>
+          <gpxdata:speed>0.979</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8377351" lon="6.4645225">
+        <ele>1113.0</ele>
+        <time>2026-09-15T13:55:31Z</time>
+        <extensions>
+          <gpxdata:distance>13371.83</gpxdata:distance>
+          <gpxdata:speed>0.982</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8376721" lon="6.4645365">
+        <ele>1113.3</ele>
+        <time>2026-09-15T13:55:38Z</time>
+        <extensions>
+          <gpxdata:distance>13378.92</gpxdata:distance>
+          <gpxdata:speed>0.971</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8375911" lon="6.4645255">
+        <ele>1114.1</ele>
+        <time>2026-09-15T13:55:48Z</time>
+        <extensions>
+          <gpxdata:distance>13387.96</gpxdata:distance>
+          <gpxdata:speed>0.945</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8375641" lon="6.4645255">
+        <ele>1114.5</ele>
+        <time>2026-09-15T13:55:51Z</time>
+        <extensions>
+          <gpxdata:distance>13390.97</gpxdata:distance>
+          <gpxdata:speed>0.920</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8375371" lon="6.4645124">
+        <ele>1114.8</ele>
+        <time>2026-09-15T13:55:55Z</time>
+        <extensions>
+          <gpxdata:distance>13394.13</gpxdata:distance>
+          <gpxdata:speed>0.901</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8375091" lon="6.4644744">
+        <ele>1115.0</ele>
+        <time>2026-09-15T13:55:59Z</time>
+        <extensions>
+          <gpxdata:distance>13398.38</gpxdata:distance>
+          <gpxdata:speed>0.889</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8375091" lon="6.4644744">
+        <ele>1115.0</ele>
+        <time>2026-09-15T13:55:59Z</time>
+        <extensions>
+          <gpxdata:distance>13398.38</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8374831" lon="6.4645134">
+        <ele>1115.0</ele>
+        <time>2026-09-15T13:56:04Z</time>
+        <extensions>
+          <gpxdata:distance>13402.52</gpxdata:distance>
+          <gpxdata:speed>0.862</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8374471" lon="6.4645404">
+        <ele>1115.2</ele>
+        <time>2026-09-15T13:56:10Z</time>
+        <extensions>
+          <gpxdata:distance>13407.02</gpxdata:distance>
+          <gpxdata:speed>0.854</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8374021" lon="6.4645544">
+        <ele>1115.6</ele>
+        <time>2026-09-15T13:56:16Z</time>
+        <extensions>
+          <gpxdata:distance>13412.13</gpxdata:distance>
+          <gpxdata:speed>0.847</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8372321" lon="6.4645974">
+        <ele>1116.5</ele>
+        <time>2026-09-15T13:56:38Z</time>
+        <extensions>
+          <gpxdata:distance>13431.32</gpxdata:distance>
+          <gpxdata:speed>0.856</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8369361" lon="6.4646814">
+        <ele>1118.0</ele>
+        <time>2026-09-15T13:57:16Z</time>
+        <extensions>
+          <gpxdata:distance>13464.85</gpxdata:distance>
+          <gpxdata:speed>0.884</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8366211" lon="6.4647784">
+        <ele>1119.7</ele>
+        <time>2026-09-15T13:57:56Z</time>
+        <extensions>
+          <gpxdata:distance>13500.64</gpxdata:distance>
+          <gpxdata:speed>0.892</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8365592" lon="6.4648054">
+        <ele>1120.2</ele>
+        <time>2026-09-15T13:58:04Z</time>
+        <extensions>
+          <gpxdata:distance>13507.83</gpxdata:distance>
+          <gpxdata:speed>0.892</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8365052" lon="6.4648463">
+        <ele>1120.5</ele>
+        <time>2026-09-15T13:58:12Z</time>
+        <extensions>
+          <gpxdata:distance>13514.59</gpxdata:distance>
+          <gpxdata:speed>0.892</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8364432" lon="6.4649263">
+        <ele>1119.8</ele>
+        <time>2026-09-15T13:58:22Z</time>
+        <extensions>
+          <gpxdata:distance>13523.78</gpxdata:distance>
+          <gpxdata:speed>0.915</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8363722" lon="6.4650193">
+        <ele>1118.5</ele>
+        <time>2026-09-15T13:58:33Z</time>
+        <extensions>
+          <gpxdata:distance>13534.38</gpxdata:distance>
+          <gpxdata:speed>0.945</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8363362" lon="6.4650593">
+        <ele>1118.2</ele>
+        <time>2026-09-15T13:58:38Z</time>
+        <extensions>
+          <gpxdata:distance>13539.41</gpxdata:distance>
+          <gpxdata:speed>0.955</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8363002" lon="6.4650853">
+        <ele>1118.0</ele>
+        <time>2026-09-15T13:58:43Z</time>
+        <extensions>
+          <gpxdata:distance>13543.88</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8362732" lon="6.4650863">
+        <ele>1117.7</ele>
+        <time>2026-09-15T13:58:46Z</time>
+        <extensions>
+          <gpxdata:distance>13546.88</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8362282" lon="6.4650873">
+        <ele>1117.3</ele>
+        <time>2026-09-15T13:58:51Z</time>
+        <extensions>
+          <gpxdata:distance>13551.88</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8361922" lon="6.4650613">
+        <ele>1117.0</ele>
+        <time>2026-09-15T13:58:56Z</time>
+        <extensions>
+          <gpxdata:distance>13556.35</gpxdata:distance>
+          <gpxdata:speed>0.950</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8361562" lon="6.4650363">
+        <ele>1116.5</ele>
+        <time>2026-09-15T13:59:00Z</time>
+        <extensions>
+          <gpxdata:distance>13560.78</gpxdata:distance>
+          <gpxdata:speed>0.927</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8361102" lon="6.4649713">
+        <ele>1115.9</ele>
+        <time>2026-09-15T13:59:08Z</time>
+        <extensions>
+          <gpxdata:distance>13567.90</gpxdata:distance>
+          <gpxdata:speed>0.909</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8360742" lon="6.4649063">
+        <ele>1115.3</ele>
+        <time>2026-09-15T13:59:15Z</time>
+        <extensions>
+          <gpxdata:distance>13574.26</gpxdata:distance>
+          <gpxdata:speed>0.906</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8360642" lon="6.4648673">
+        <ele>1115.0</ele>
+        <time>2026-09-15T13:59:19Z</time>
+        <extensions>
+          <gpxdata:distance>13577.43</gpxdata:distance>
+          <gpxdata:speed>0.914</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8360642" lon="6.4648673">
+        <ele>1115.0</ele>
+        <time>2026-09-15T13:59:19Z</time>
+        <extensions>
+          <gpxdata:distance>13577.43</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8360272" lon="6.4647233">
+        <ele>1114.1</ele>
+        <time>2026-09-15T13:59:32Z</time>
+        <extensions>
+          <gpxdata:distance>13589.13</gpxdata:distance>
+          <gpxdata:speed>0.909</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8358582" lon="6.4639013">
+        <ele>1109.8</ele>
+        <time>2026-09-15T14:00:42Z</time>
+        <extensions>
+          <gpxdata:distance>13654.42</gpxdata:distance>
+          <gpxdata:speed>0.923</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8356242" lon="6.4628043">
+        <ele>1105.0</ele>
+        <time>2026-09-15T14:02:16Z</time>
+        <extensions>
+          <gpxdata:distance>13741.82</gpxdata:distance>
+          <gpxdata:speed>0.932</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8355872" lon="6.4626993">
+        <ele>1104.6</ele>
+        <time>2026-09-15T14:02:26Z</time>
+        <extensions>
+          <gpxdata:distance>13750.81</gpxdata:distance>
+          <gpxdata:speed>0.933</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8355512" lon="6.4626213">
+        <ele>1104.2</ele>
+        <time>2026-09-15T14:02:33Z</time>
+        <extensions>
+          <gpxdata:distance>13757.97</gpxdata:distance>
+          <gpxdata:speed>0.935</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8355052" lon="6.4625703">
+        <ele>1103.9</ele>
+        <time>2026-09-15T14:02:40Z</time>
+        <extensions>
+          <gpxdata:distance>13764.39</gpxdata:distance>
+          <gpxdata:speed>0.936</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8354422" lon="6.4625193">
+        <ele>1103.7</ele>
+        <time>2026-09-15T14:02:49Z</time>
+        <extensions>
+          <gpxdata:distance>13772.39</gpxdata:distance>
+          <gpxdata:speed>0.939</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8353793" lon="6.4625073">
+        <ele>1103.5</ele>
+        <time>2026-09-15T14:02:56Z</time>
+        <extensions>
+          <gpxdata:distance>13779.45</gpxdata:distance>
+          <gpxdata:speed>0.941</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8352893" lon="6.4625083">
+        <ele>1103.3</ele>
+        <time>2026-09-15T14:03:07Z</time>
+        <extensions>
+          <gpxdata:distance>13789.46</gpxdata:distance>
+          <gpxdata:speed>0.943</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8351903" lon="6.4625363">
+        <ele>1103.2</ele>
+        <time>2026-09-15T14:03:19Z</time>
+        <extensions>
+          <gpxdata:distance>13800.67</gpxdata:distance>
+          <gpxdata:speed>0.946</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8351273" lon="6.4625503">
+        <ele>1103.1</ele>
+        <time>2026-09-15T14:03:26Z</time>
+        <extensions>
+          <gpxdata:distance>13807.75</gpxdata:distance>
+          <gpxdata:speed>0.956</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8350643" lon="6.4625913">
+        <ele>1102.8</ele>
+        <time>2026-09-15T14:03:34Z</time>
+        <extensions>
+          <gpxdata:distance>13815.42</gpxdata:distance>
+          <gpxdata:speed>0.974</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8350113" lon="6.4626313">
+        <ele>1102.4</ele>
+        <time>2026-09-15T14:03:41Z</time>
+        <extensions>
+          <gpxdata:distance>13822.05</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8349663" lon="6.4626853">
+        <ele>1102.0</ele>
+        <time>2026-09-15T14:03:47Z</time>
+        <extensions>
+          <gpxdata:distance>13828.53</gpxdata:distance>
+          <gpxdata:speed>0.972</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8348783" lon="6.4628433">
+        <ele>1101.3</ele>
+        <time>2026-09-15T14:04:03Z</time>
+        <extensions>
+          <gpxdata:distance>13844.03</gpxdata:distance>
+          <gpxdata:speed>0.970</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8348333" lon="6.4629233">
+        <ele>1100.8</ele>
+        <time>2026-09-15T14:04:12Z</time>
+        <extensions>
+          <gpxdata:distance>13851.91</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8347893" lon="6.4629762">
+        <ele>1100.5</ele>
+        <time>2026-09-15T14:04:18Z</time>
+        <extensions>
+          <gpxdata:distance>13858.24</gpxdata:distance>
+          <gpxdata:speed>0.963</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8347443" lon="6.4630162">
+        <ele>1100.3</ele>
+        <time>2026-09-15T14:04:24Z</time>
+        <extensions>
+          <gpxdata:distance>13864.10</gpxdata:distance>
+          <gpxdata:speed>0.961</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8347003" lon="6.4630432">
+        <ele>1100.0</ele>
+        <time>2026-09-15T14:04:30Z</time>
+        <extensions>
+          <gpxdata:distance>13869.40</gpxdata:distance>
+          <gpxdata:speed>0.953</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8346283" lon="6.4630582">
+        <ele>1099.7</ele>
+        <time>2026-09-15T14:04:38Z</time>
+        <extensions>
+          <gpxdata:distance>13877.49</gpxdata:distance>
+          <gpxdata:speed>0.950</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8345743" lon="6.4630592">
+        <ele>1099.5</ele>
+        <time>2026-09-15T14:04:45Z</time>
+        <extensions>
+          <gpxdata:distance>13883.49</gpxdata:distance>
+          <gpxdata:speed>0.950</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8345743" lon="6.4630592">
+        <ele>1099.5</ele>
+        <time>2026-09-15T14:04:45Z</time>
+        <extensions>
+          <gpxdata:distance>13883.49</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8345193" lon="6.4630332">
+        <ele>1099.3</ele>
+        <time>2026-09-15T14:04:51Z</time>
+        <extensions>
+          <gpxdata:distance>13889.92</gpxdata:distance>
+          <gpxdata:speed>0.956</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8344203" lon="6.4629832">
+        <ele>1098.9</ele>
+        <time>2026-09-15T14:05:04Z</time>
+        <extensions>
+          <gpxdata:distance>13901.57</gpxdata:distance>
+          <gpxdata:speed>0.959</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8342573" lon="6.4628812">
+        <ele>1098.3</ele>
+        <time>2026-09-15T14:05:24Z</time>
+        <extensions>
+          <gpxdata:distance>13921.28</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8339503" lon="6.4627032">
+        <ele>1096.7</ele>
+        <time>2026-09-15T14:06:02Z</time>
+        <extensions>
+          <gpxdata:distance>13958.01</gpxdata:distance>
+          <gpxdata:speed>0.963</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335433" lon="6.4624742">
+        <ele>1094.1</ele>
+        <time>2026-09-15T14:06:53Z</time>
+        <extensions>
+          <gpxdata:distance>14006.50</gpxdata:distance>
+          <gpxdata:speed>0.956</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8331363" lon="6.4622461">
+        <ele>1091.0</ele>
+        <time>2026-09-15T14:07:44Z</time>
+        <extensions>
+          <gpxdata:distance>14054.97</gpxdata:distance>
+          <gpxdata:speed>0.950</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327574" lon="6.4620301">
+        <ele>1088.1</ele>
+        <time>2026-09-15T14:08:32Z</time>
+        <extensions>
+          <gpxdata:distance>14100.19</gpxdata:distance>
+          <gpxdata:speed>0.946</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327574" lon="6.4620301">
+        <ele>1088.1</ele>
+        <time>2026-09-15T14:08:32Z</time>
+        <extensions>
+          <gpxdata:distance>14100.19</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8328094" lon="6.4618721">
+        <ele>1088.6</ele>
+        <time>2026-09-15T14:08:46Z</time>
+        <extensions>
+          <gpxdata:distance>14113.53</gpxdata:distance>
+          <gpxdata:speed>0.951</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8328534" lon="6.4617791">
+        <ele>1089.0</ele>
+        <time>2026-09-15T14:08:55Z</time>
+        <extensions>
+          <gpxdata:distance>14122.13</gpxdata:distance>
+          <gpxdata:speed>0.955</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329424" lon="6.4616201">
+        <ele>1089.6</ele>
+        <time>2026-09-15T14:09:11Z</time>
+        <extensions>
+          <gpxdata:distance>14137.76</gpxdata:distance>
+          <gpxdata:speed>0.962</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8330754" lon="6.4613822">
+        <ele>1090.1</ele>
+        <time>2026-09-15T14:09:35Z</time>
+        <extensions>
+          <gpxdata:distance>14161.13</gpxdata:distance>
+          <gpxdata:speed>0.968</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8331814" lon="6.4611832">
+        <ele>1090.3</ele>
+        <time>2026-09-15T14:09:55Z</time>
+        <extensions>
+          <gpxdata:distance>14180.32</gpxdata:distance>
+          <gpxdata:speed>0.975</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8332254" lon="6.4610912">
+        <ele>1090.2</ele>
+        <time>2026-09-15T14:10:03Z</time>
+        <extensions>
+          <gpxdata:distance>14188.86</gpxdata:distance>
+          <gpxdata:speed>0.985</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8332524" lon="6.4609982">
+        <ele>1090.2</ele>
+        <time>2026-09-15T14:10:11Z</time>
+        <extensions>
+          <gpxdata:distance>14196.54</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8332774" lon="6.4608542">
+        <ele>1090.2</ele>
+        <time>2026-09-15T14:10:23Z</time>
+        <extensions>
+          <gpxdata:distance>14207.84</gpxdata:distance>
+          <gpxdata:speed>0.963</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8333634" lon="6.4603282">
+        <ele>1091.4</ele>
+        <time>2026-09-15T14:11:06Z</time>
+        <extensions>
+          <gpxdata:distance>14248.98</gpxdata:distance>
+          <gpxdata:speed>0.956</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8334484" lon="6.4598022">
+        <ele>1092.7</ele>
+        <time>2026-09-15T14:11:49Z</time>
+        <extensions>
+          <gpxdata:distance>14290.10</gpxdata:distance>
+          <gpxdata:speed>0.953</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335254" lon="6.4592503">
+        <ele>1093.8</ele>
+        <time>2026-09-15T14:12:34Z</time>
+        <extensions>
+          <gpxdata:distance>14332.95</gpxdata:distance>
+          <gpxdata:speed>0.955</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335414" lon="6.4590403">
+        <ele>1094.4</ele>
+        <time>2026-09-15T14:12:51Z</time>
+        <extensions>
+          <gpxdata:distance>14349.02</gpxdata:distance>
+          <gpxdata:speed>0.955</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335574" lon="6.4588963">
+        <ele>1094.9</ele>
+        <time>2026-09-15T14:13:02Z</time>
+        <extensions>
+          <gpxdata:distance>14360.12</gpxdata:distance>
+          <gpxdata:speed>0.951</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335574" lon="6.4588043">
+        <ele>1095.0</ele>
+        <time>2026-09-15T14:13:10Z</time>
+        <extensions>
+          <gpxdata:distance>14367.12</gpxdata:distance>
+          <gpxdata:speed>0.949</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335574" lon="6.4588043">
+        <ele>1095.0</ele>
+        <time>2026-09-15T14:13:10Z</time>
+        <extensions>
+          <gpxdata:distance>14367.12</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335724" lon="6.4584633">
+        <ele>1094.5</ele>
+        <time>2026-09-15T14:13:37Z</time>
+        <extensions>
+          <gpxdata:distance>14393.11</gpxdata:distance>
+          <gpxdata:speed>0.957</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335844" lon="6.4577943">
+        <ele>1092.8</ele>
+        <time>2026-09-15T14:14:29Z</time>
+        <extensions>
+          <gpxdata:distance>14444.02</gpxdata:distance>
+          <gpxdata:speed>0.984</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335984" lon="6.4573743">
+        <ele>1091.8</ele>
+        <time>2026-09-15T14:15:00Z</time>
+        <extensions>
+          <gpxdata:distance>14476.01</gpxdata:distance>
+          <gpxdata:speed>1.008</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335974" lon="6.4571783">
+        <ele>1091.6</ele>
+        <time>2026-09-15T14:15:15Z</time>
+        <extensions>
+          <gpxdata:distance>14490.92</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335874" lon="6.4570603">
+        <ele>1091.6</ele>
+        <time>2026-09-15T14:15:24Z</time>
+        <extensions>
+          <gpxdata:distance>14499.96</gpxdata:distance>
+          <gpxdata:speed>0.995</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335774" lon="6.4569423">
+        <ele>1091.6</ele>
+        <time>2026-09-15T14:15:33Z</time>
+        <extensions>
+          <gpxdata:distance>14509.01</gpxdata:distance>
+          <gpxdata:speed>0.990</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335394" lon="6.4567853">
+        <ele>1091.9</ele>
+        <time>2026-09-15T14:15:46Z</time>
+        <extensions>
+          <gpxdata:distance>14521.67</gpxdata:distance>
+          <gpxdata:speed>0.989</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8334654" lon="6.4565113">
+        <ele>1093.0</ele>
+        <time>2026-09-15T14:16:09Z</time>
+        <extensions>
+          <gpxdata:distance>14544.08</gpxdata:distance>
+          <gpxdata:speed>0.998</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8334464" lon="6.4564073">
+        <ele>1093.7</ele>
+        <time>2026-09-15T14:16:17Z</time>
+        <extensions>
+          <gpxdata:distance>14552.27</gpxdata:distance>
+          <gpxdata:speed>1.003</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8334364" lon="6.4563283">
+        <ele>1094.3</ele>
+        <time>2026-09-15T14:16:23Z</time>
+        <extensions>
+          <gpxdata:distance>14558.38</gpxdata:distance>
+          <gpxdata:speed>1.011</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8334364" lon="6.4562373">
+        <ele>1094.7</ele>
+        <time>2026-09-15T14:16:30Z</time>
+        <extensions>
+          <gpxdata:distance>14565.31</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8334534" lon="6.4561453">
+        <ele>1095.1</ele>
+        <time>2026-09-15T14:16:38Z</time>
+        <extensions>
+          <gpxdata:distance>14572.56</gpxdata:distance>
+          <gpxdata:speed>0.926</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8334704" lon="6.4560394">
+        <ele>1095.5</ele>
+        <time>2026-09-15T14:16:47Z</time>
+        <extensions>
+          <gpxdata:distance>14580.83</gpxdata:distance>
+          <gpxdata:speed>0.902</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335224" lon="6.4558684">
+        <ele>1096.2</ele>
+        <time>2026-09-15T14:17:03Z</time>
+        <extensions>
+          <gpxdata:distance>14595.07</gpxdata:distance>
+          <gpxdata:speed>0.890</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335934" lon="6.4557104">
+        <ele>1096.8</ele>
+        <time>2026-09-15T14:17:19Z</time>
+        <extensions>
+          <gpxdata:distance>14609.45</gpxdata:distance>
+          <gpxdata:speed>0.881</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335934" lon="6.4557104">
+        <ele>1096.8</ele>
+        <time>2026-09-15T14:17:19Z</time>
+        <extensions>
+          <gpxdata:distance>14609.45</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335754" lon="6.4556714">
+        <ele>1096.8</ele>
+        <time>2026-09-15T14:17:23Z</time>
+        <extensions>
+          <gpxdata:distance>14613.02</gpxdata:distance>
+          <gpxdata:speed>0.872</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335654" lon="6.4556314">
+        <ele>1097.0</ele>
+        <time>2026-09-15T14:17:27Z</time>
+        <extensions>
+          <gpxdata:distance>14616.26</gpxdata:distance>
+          <gpxdata:speed>0.881</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335374" lon="6.4555274">
+        <ele>1097.1</ele>
+        <time>2026-09-15T14:17:36Z</time>
+        <extensions>
+          <gpxdata:distance>14624.77</gpxdata:distance>
+          <gpxdata:speed>0.905</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8335004" lon="6.4553444">
+        <ele>1097.4</ele>
+        <time>2026-09-15T14:17:52Z</time>
+        <extensions>
+          <gpxdata:distance>14639.28</gpxdata:distance>
+          <gpxdata:speed>0.920</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8333694" lon="6.4547444">
+        <ele>1099.4</ele>
+        <time>2026-09-15T14:18:44Z</time>
+        <extensions>
+          <gpxdata:distance>14687.19</gpxdata:distance>
+          <gpxdata:speed>0.917</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8332104" lon="6.4540264">
+        <ele>1101.3</ele>
+        <time>2026-09-15T14:19:47Z</time>
+        <extensions>
+          <gpxdata:distance>14744.60</gpxdata:distance>
+          <gpxdata:speed>0.922</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8330415" lon="6.4532684">
+        <ele>1099.5</ele>
+        <time>2026-09-15T14:20:49Z</time>
+        <extensions>
+          <gpxdata:distance>14805.25</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8328825" lon="6.4525504">
+        <ele>1096.7</ele>
+        <time>2026-09-15T14:21:46Z</time>
+        <extensions>
+          <gpxdata:distance>14862.65</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8328365" lon="6.4523685">
+        <ele>1095.6</ele>
+        <time>2026-09-15T14:22:00Z</time>
+        <extensions>
+          <gpxdata:distance>14877.41</gpxdata:distance>
+          <gpxdata:speed>1.007</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8328085" lon="6.4522505">
+        <ele>1094.9</ele>
+        <time>2026-09-15T14:22:10Z</time>
+        <extensions>
+          <gpxdata:distance>14886.91</gpxdata:distance>
+          <gpxdata:speed>1.003</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327895" lon="6.4521335">
+        <ele>1094.3</ele>
+        <time>2026-09-15T14:22:19Z</time>
+        <extensions>
+          <gpxdata:distance>14896.06</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327785" lon="6.4519895">
+        <ele>1093.6</ele>
+        <time>2026-09-15T14:22:30Z</time>
+        <extensions>
+          <gpxdata:distance>14907.08</gpxdata:distance>
+          <gpxdata:speed>0.996</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327685" lon="6.4518585">
+        <ele>1093.1</ele>
+        <time>2026-09-15T14:22:40Z</time>
+        <extensions>
+          <gpxdata:distance>14917.11</gpxdata:distance>
+          <gpxdata:speed>0.992</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327765" lon="6.4517405">
+        <ele>1092.7</ele>
+        <time>2026-09-15T14:22:49Z</time>
+        <extensions>
+          <gpxdata:distance>14926.13</gpxdata:distance>
+          <gpxdata:speed>0.976</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327845" lon="6.4516355">
+        <ele>1092.5</ele>
+        <time>2026-09-15T14:22:58Z</time>
+        <extensions>
+          <gpxdata:distance>14934.16</gpxdata:distance>
+          <gpxdata:speed>0.953</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8328105" lon="6.4514775">
+        <ele>1092.1</ele>
+        <time>2026-09-15T14:23:11Z</time>
+        <extensions>
+          <gpxdata:distance>14946.53</gpxdata:distance>
+          <gpxdata:speed>0.946</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8328715" lon="6.4512275">
+        <ele>1091.4</ele>
+        <time>2026-09-15T14:23:32Z</time>
+        <extensions>
+          <gpxdata:distance>14966.72</gpxdata:distance>
+          <gpxdata:speed>0.947</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329235" lon="6.4510295">
+        <ele>1091.2</ele>
+        <time>2026-09-15T14:23:49Z</time>
+        <extensions>
+          <gpxdata:distance>14982.85</gpxdata:distance>
+          <gpxdata:speed>0.959</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329405" lon="6.4509245">
+        <ele>1091.2</ele>
+        <time>2026-09-15T14:23:58Z</time>
+        <extensions>
+          <gpxdata:distance>14991.06</gpxdata:distance>
+          <gpxdata:speed>0.967</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329575" lon="6.4507795">
+        <ele>1091.2</ele>
+        <time>2026-09-15T14:24:09Z</time>
+        <extensions>
+          <gpxdata:distance>15002.25</gpxdata:distance>
+          <gpxdata:speed>0.975</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329565" lon="6.4506745">
+        <ele>1091.2</ele>
+        <time>2026-09-15T14:24:17Z</time>
+        <extensions>
+          <gpxdata:distance>15010.24</gpxdata:distance>
+          <gpxdata:speed>0.982</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329465" lon="6.4505835">
+        <ele>1091.3</ele>
+        <time>2026-09-15T14:24:24Z</time>
+        <extensions>
+          <gpxdata:distance>15017.25</gpxdata:distance>
+          <gpxdata:speed>0.989</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329275" lon="6.4504915">
+        <ele>1091.5</ele>
+        <time>2026-09-15T14:24:32Z</time>
+        <extensions>
+          <gpxdata:distance>15024.56</gpxdata:distance>
+          <gpxdata:speed>0.997</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8329005" lon="6.4504135">
+        <ele>1091.6</ele>
+        <time>2026-09-15T14:24:38Z</time>
+        <extensions>
+          <gpxdata:distance>15031.21</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8327995" lon="6.4502325">
+        <ele>1091.9</ele>
+        <time>2026-09-15T14:24:56Z</time>
+        <extensions>
+          <gpxdata:distance>15048.98</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8326805" lon="6.4500375">
+        <ele>1092.0</ele>
+        <time>2026-09-15T14:25:16Z</time>
+        <extensions>
+          <gpxdata:distance>15068.86</gpxdata:distance>
+          <gpxdata:speed>0.997</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8323985" lon="6.4495715">
+        <ele>1091.4</ele>
+        <time>2026-09-15T14:26:03Z</time>
+        <extensions>
+          <gpxdata:distance>15116.18</gpxdata:distance>
+          <gpxdata:speed>1.009</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8319695" lon="6.4488715">
+        <ele>1087.9</ele>
+        <time>2026-09-15T14:27:15Z</time>
+        <extensions>
+          <gpxdata:distance>15187.68</gpxdata:distance>
+          <gpxdata:speed>0.991</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8318325" lon="6.4486375">
+        <ele>1087.4</ele>
+        <time>2026-09-15T14:27:39Z</time>
+        <extensions>
+          <gpxdata:distance>15211.11</gpxdata:distance>
+          <gpxdata:speed>0.989</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8317505" lon="6.4485085">
+        <ele>1087.2</ele>
+        <time>2026-09-15T14:27:52Z</time>
+        <extensions>
+          <gpxdata:distance>15224.50</gpxdata:distance>
+          <gpxdata:speed>0.988</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8316405" lon="6.4483795">
+        <ele>1087.0</ele>
+        <time>2026-09-15T14:28:08Z</time>
+        <extensions>
+          <gpxdata:distance>15240.18</gpxdata:distance>
+          <gpxdata:speed>0.988</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8315865" lon="6.4483145">
+        <ele>1086.8</ele>
+        <time>2026-09-15T14:28:16Z</time>
+        <extensions>
+          <gpxdata:distance>15247.96</gpxdata:distance>
+          <gpxdata:speed>0.985</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8314145" lon="6.4481475">
+        <ele>1087.0</ele>
+        <time>2026-09-15T14:28:39Z</time>
+        <extensions>
+          <gpxdata:distance>15270.92</gpxdata:distance>
+          <gpxdata:speed>0.988</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8310155" lon="6.4478005">
+        <ele>1088.0</ele>
+        <time>2026-09-15T14:29:31Z</time>
+        <extensions>
+          <gpxdata:distance>15322.55</gpxdata:distance>
+          <gpxdata:speed>0.994</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8304986" lon="6.4473645">
+        <ele>1087.8</ele>
+        <time>2026-09-15T14:30:38Z</time>
+        <extensions>
+          <gpxdata:distance>15388.91</gpxdata:distance>
+          <gpxdata:speed>0.996</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8304076" lon="6.4472745">
+        <ele>1087.1</ele>
+        <time>2026-09-15T14:30:50Z</time>
+        <extensions>
+          <gpxdata:distance>15401.13</gpxdata:distance>
+          <gpxdata:speed>0.993</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8303626" lon="6.4472495">
+        <ele>1086.8</ele>
+        <time>2026-09-15T14:30:55Z</time>
+        <extensions>
+          <gpxdata:distance>15406.48</gpxdata:distance>
+          <gpxdata:speed>1.006</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8303266" lon="6.4472235">
+        <ele>1086.7</ele>
+        <time>2026-09-15T14:31:00Z</time>
+        <extensions>
+          <gpxdata:distance>15410.94</gpxdata:distance>
+          <gpxdata:speed>1.008</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8302816" lon="6.4472115">
+        <ele>1086.6</ele>
+        <time>2026-09-15T14:31:05Z</time>
+        <extensions>
+          <gpxdata:distance>15416.03</gpxdata:distance>
+          <gpxdata:speed>1.008</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8302816" lon="6.4472115">
+        <ele>1086.6</ele>
+        <time>2026-09-15T14:31:05Z</time>
+        <extensions>
+          <gpxdata:distance>15416.03</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8302276" lon="6.4472255">
+        <ele>1086.5</ele>
+        <time>2026-09-15T14:31:11Z</time>
+        <extensions>
+          <gpxdata:distance>15422.13</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8301736" lon="6.4472525">
+        <ele>1086.4</ele>
+        <time>2026-09-15T14:31:17Z</time>
+        <extensions>
+          <gpxdata:distance>15428.48</gpxdata:distance>
+          <gpxdata:speed>1.007</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8299326" lon="6.4473885">
+        <ele>1085.9</ele>
+        <time>2026-09-15T14:31:46Z</time>
+        <extensions>
+          <gpxdata:distance>15457.20</gpxdata:distance>
+          <gpxdata:speed>0.992</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8297266" lon="6.4474965">
+        <ele>1085.5</ele>
+        <time>2026-09-15T14:32:11Z</time>
+        <extensions>
+          <gpxdata:distance>15481.54</gpxdata:distance>
+          <gpxdata:speed>0.980</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8295206" lon="6.4476055">
+        <ele>1085.2</ele>
+        <time>2026-09-15T14:32:36Z</time>
+        <extensions>
+          <gpxdata:distance>15505.90</gpxdata:distance>
+          <gpxdata:speed>0.989</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8295206" lon="6.4476055">
+        <ele>1085.2</ele>
+        <time>2026-09-15T14:32:36Z</time>
+        <extensions>
+          <gpxdata:distance>15505.90</gpxdata:distance>
+          <gpxdata:speed>0.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8294156" lon="6.4469655">
+        <ele>1085.3</ele>
+        <time>2026-09-15T14:33:26Z</time>
+        <extensions>
+          <gpxdata:distance>15555.97</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8293876" lon="6.4468475">
+        <ele>1085.3</ele>
+        <time>2026-09-15T14:33:35Z</time>
+        <extensions>
+          <gpxdata:distance>15565.47</gpxdata:distance>
+          <gpxdata:speed>1.001</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8293696" lon="6.4467695">
+        <ele>1085.4</ele>
+        <time>2026-09-15T14:33:41Z</time>
+        <extensions>
+          <gpxdata:distance>15571.73</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8293316" lon="6.4466385">
+        <ele>1085.5</ele>
+        <time>2026-09-15T14:33:52Z</time>
+        <extensions>
+          <gpxdata:distance>15582.56</gpxdata:distance>
+          <gpxdata:speed>1.004</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8293226" lon="6.4465995">
+        <ele>1085.5</ele>
+        <time>2026-09-15T14:33:55Z</time>
+        <extensions>
+          <gpxdata:distance>15585.69</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8292676" lon="6.4464305">
+        <ele>1085.6</ele>
+        <time>2026-09-15T14:34:09Z</time>
+        <extensions>
+          <gpxdata:distance>15599.92</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8292216" lon="6.4463525">
+        <ele>1085.6</ele>
+        <time>2026-09-15T14:34:17Z</time>
+        <extensions>
+          <gpxdata:distance>15607.76</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8291846" lon="6.4462875">
+        <ele>1085.7</ele>
+        <time>2026-09-15T14:34:24Z</time>
+        <extensions>
+          <gpxdata:distance>15614.19</gpxdata:distance>
+          <gpxdata:speed>1.001</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8291396" lon="6.4462235">
+        <ele>1085.7</ele>
+        <time>2026-09-15T14:34:30Z</time>
+        <extensions>
+          <gpxdata:distance>15621.17</gpxdata:distance>
+          <gpxdata:speed>1.001</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8291036" lon="6.4461975">
+        <ele>1085.8</ele>
+        <time>2026-09-15T14:34:35Z</time>
+        <extensions>
+          <gpxdata:distance>15625.64</gpxdata:distance>
+          <gpxdata:speed>0.994</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8290396" lon="6.4461595">
+        <ele>1085.8</ele>
+        <time>2026-09-15T14:34:43Z</time>
+        <extensions>
+          <gpxdata:distance>15633.32</gpxdata:distance>
+          <gpxdata:speed>0.994</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8289856" lon="6.4460945">
+        <ele>1085.9</ele>
+        <time>2026-09-15T14:34:51Z</time>
+        <extensions>
+          <gpxdata:distance>15641.10</gpxdata:distance>
+          <gpxdata:speed>0.994</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8289126" lon="6.4460175">
+        <ele>1086.2</ele>
+        <time>2026-09-15T14:35:01Z</time>
+        <extensions>
+          <gpxdata:distance>15651.11</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8288576" lon="6.4459265">
+        <ele>1086.8</ele>
+        <time>2026-09-15T14:35:10Z</time>
+        <extensions>
+          <gpxdata:distance>15660.35</gpxdata:distance>
+          <gpxdata:speed>0.968</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8287846" lon="6.4457575">
+        <ele>1087.6</ele>
+        <time>2026-09-15T14:35:26Z</time>
+        <extensions>
+          <gpxdata:distance>15675.55</gpxdata:distance>
+          <gpxdata:speed>0.945</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8287296" lon="6.4456675">
+        <ele>1087.7</ele>
+        <time>2026-09-15T14:35:36Z</time>
+        <extensions>
+          <gpxdata:distance>15684.73</gpxdata:distance>
+          <gpxdata:speed>0.943</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8286656" lon="6.4455635">
+        <ele>1088.0</ele>
+        <time>2026-09-15T14:35:47Z</time>
+        <extensions>
+          <gpxdata:distance>15695.37</gpxdata:distance>
+          <gpxdata:speed>0.940</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8285566" lon="6.4453945">
+        <ele>1087.6</ele>
+        <time>2026-09-15T14:36:06Z</time>
+        <extensions>
+          <gpxdata:distance>15713.04</gpxdata:distance>
+          <gpxdata:speed>0.960</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8285286" lon="6.4453435">
+        <ele>1087.7</ele>
+        <time>2026-09-15T14:36:11Z</time>
+        <extensions>
+          <gpxdata:distance>15718.02</gpxdata:distance>
+          <gpxdata:speed>0.960</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8285016" lon="6.4452385">
+        <ele>1087.8</ele>
+        <time>2026-09-15T14:36:20Z</time>
+        <extensions>
+          <gpxdata:distance>15726.55</gpxdata:distance>
+          <gpxdata:speed>0.958</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8284456" lon="6.4450825">
+        <ele>1087.9</ele>
+        <time>2026-09-15T14:36:34Z</time>
+        <extensions>
+          <gpxdata:distance>15739.95</gpxdata:distance>
+          <gpxdata:speed>0.961</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8284086" lon="6.4449385">
+        <ele>1087.9</ele>
+        <time>2026-09-15T14:36:46Z</time>
+        <extensions>
+          <gpxdata:distance>15751.66</gpxdata:distance>
+          <gpxdata:speed>0.969</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8283526" lon="6.4447305">
+        <ele>1087.9</ele>
+        <time>2026-09-15T14:37:03Z</time>
+        <extensions>
+          <gpxdata:distance>15768.66</gpxdata:distance>
+          <gpxdata:speed>0.987</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8283156" lon="6.4445475">
+        <ele>1087.9</ele>
+        <time>2026-09-15T14:37:18Z</time>
+        <extensions>
+          <gpxdata:distance>15783.18</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8282786" lon="6.4444305">
+        <ele>1088.0</ele>
+        <time>2026-09-15T14:37:27Z</time>
+        <extensions>
+          <gpxdata:distance>15792.98</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8280476" lon="6.4438185">
+        <ele>1088.5</ele>
+        <time>2026-09-15T14:38:20Z</time>
+        <extensions>
+          <gpxdata:distance>15846.16</gpxdata:distance>
+          <gpxdata:speed>1.004</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8280016" lon="6.4437015">
+        <ele>1088.6</ele>
+        <time>2026-09-15T14:38:31Z</time>
+        <extensions>
+          <gpxdata:distance>15856.43</gpxdata:distance>
+          <gpxdata:speed>0.995</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8277546" lon="6.4431815">
+        <ele>1088.5</ele>
+        <time>2026-09-15T14:39:19Z</time>
+        <extensions>
+          <gpxdata:distance>15904.59</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8276536" lon="6.4429995">
+        <ele>1088.6</ele>
+        <time>2026-09-15T14:39:36Z</time>
+        <extensions>
+          <gpxdata:distance>15922.41</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8275536" lon="6.4428576">
+        <ele>1088.7</ele>
+        <time>2026-09-15T14:39:52Z</time>
+        <extensions>
+          <gpxdata:distance>15937.91</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8274536" lon="6.4427415">
+        <ele>1088.6</ele>
+        <time>2026-09-15T14:40:06Z</time>
+        <extensions>
+          <gpxdata:distance>15952.11</gpxdata:distance>
+          <gpxdata:speed>1.004</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8273726" lon="6.4426775">
+        <ele>1088.6</ele>
+        <time>2026-09-15T14:40:16Z</time>
+        <extensions>
+          <gpxdata:distance>15962.35</gpxdata:distance>
+          <gpxdata:speed>1.003</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8272906" lon="6.4426265">
+        <ele>1088.7</ele>
+        <time>2026-09-15T14:40:26Z</time>
+        <extensions>
+          <gpxdata:distance>15972.26</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8272007" lon="6.4425885">
+        <ele>1088.8</ele>
+        <time>2026-09-15T14:40:37Z</time>
+        <extensions>
+          <gpxdata:distance>15982.67</gpxdata:distance>
+          <gpxdata:speed>1.002</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8271017" lon="6.4425775">
+        <ele>1088.7</ele>
+        <time>2026-09-15T14:40:48Z</time>
+        <extensions>
+          <gpxdata:distance>15993.71</gpxdata:distance>
+          <gpxdata:speed>1.009</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8269037" lon="6.4425685">
+        <ele>1088.6</ele>
+        <time>2026-09-15T14:41:09Z</time>
+        <extensions>
+          <gpxdata:distance>16015.73</gpxdata:distance>
+          <gpxdata:speed>1.012</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8267237" lon="6.4425715">
+        <ele>1088.6</ele>
+        <time>2026-09-15T14:41:29Z</time>
+        <extensions>
+          <gpxdata:distance>16035.75</gpxdata:distance>
+          <gpxdata:speed>1.010</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8264717" lon="6.4425635">
+        <ele>1089.0</ele>
+        <time>2026-09-15T14:41:57Z</time>
+        <extensions>
+          <gpxdata:distance>16063.78</gpxdata:distance>
+          <gpxdata:speed>1.005</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8262377" lon="6.4425675">
+        <ele>1090.3</ele>
+        <time>2026-09-15T14:42:23Z</time>
+        <extensions>
+          <gpxdata:distance>16089.80</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8260487" lon="6.4425705">
+        <ele>1090.8</ele>
+        <time>2026-09-15T14:42:45Z</time>
+        <extensions>
+          <gpxdata:distance>16110.82</gpxdata:distance>
+          <gpxdata:speed>0.977</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8258507" lon="6.4425745">
+        <ele>1091.1</ele>
+        <time>2026-09-15T14:43:07Z</time>
+        <extensions>
+          <gpxdata:distance>16132.84</gpxdata:distance>
+          <gpxdata:speed>0.975</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8256887" lon="6.4425645">
+        <ele>1091.3</ele>
+        <time>2026-09-15T14:43:26Z</time>
+        <extensions>
+          <gpxdata:distance>16150.86</gpxdata:distance>
+          <gpxdata:speed>0.975</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8255897" lon="6.4425535">
+        <ele>1091.2</ele>
+        <time>2026-09-15T14:43:37Z</time>
+        <extensions>
+          <gpxdata:distance>16161.90</gpxdata:distance>
+          <gpxdata:speed>0.978</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8254827" lon="6.4425815">
+        <ele>1090.5</ele>
+        <time>2026-09-15T14:43:49Z</time>
+        <extensions>
+          <gpxdata:distance>16173.99</gpxdata:distance>
+          <gpxdata:speed>0.987</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8253117" lon="6.4426234">
+        <ele>1090.6</ele>
+        <time>2026-09-15T14:44:09Z</time>
+        <extensions>
+          <gpxdata:distance>16193.27</gpxdata:distance>
+          <gpxdata:speed>0.984</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8252307" lon="6.4426254">
+        <ele>1091.1</ele>
+        <time>2026-09-15T14:44:18Z</time>
+        <extensions>
+          <gpxdata:distance>16202.28</gpxdata:distance>
+          <gpxdata:speed>0.974</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8250687" lon="6.4426154">
+        <ele>1092.1</ele>
+        <time>2026-09-15T14:44:37Z</time>
+        <extensions>
+          <gpxdata:distance>16220.31</gpxdata:distance>
+          <gpxdata:speed>0.962</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8249697" lon="6.4425904">
+        <ele>1092.7</ele>
+        <time>2026-09-15T14:44:49Z</time>
+        <extensions>
+          <gpxdata:distance>16231.48</gpxdata:distance>
+          <gpxdata:speed>0.969</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8249247" lon="6.4425394">
+        <ele>1093.1</ele>
+        <time>2026-09-15T14:44:55Z</time>
+        <extensions>
+          <gpxdata:distance>16237.81</gpxdata:distance>
+          <gpxdata:speed>0.966</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8248787" lon="6.4424744">
+        <ele>1093.5</ele>
+        <time>2026-09-15T14:45:03Z</time>
+        <extensions>
+          <gpxdata:distance>16244.93</gpxdata:distance>
+          <gpxdata:speed>0.958</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8248607" lon="6.4424224">
+        <ele>1093.7</ele>
+        <time>2026-09-15T14:45:07Z</time>
+        <extensions>
+          <gpxdata:distance>16249.36</gpxdata:distance>
+          <gpxdata:speed>0.951</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8248327" lon="6.4423054">
+        <ele>1094.1</ele>
+        <time>2026-09-15T14:45:17Z</time>
+        <extensions>
+          <gpxdata:distance>16258.79</gpxdata:distance>
+          <gpxdata:speed>0.936</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8248047" lon="6.4422134">
+        <ele>1094.5</ele>
+        <time>2026-09-15T14:45:26Z</time>
+        <extensions>
+          <gpxdata:distance>16266.45</gpxdata:distance>
+          <gpxdata:speed>0.903</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8247767" lon="6.4421614">
+        <ele>1094.8</ele>
+        <time>2026-09-15T14:45:32Z</time>
+        <extensions>
+          <gpxdata:distance>16271.49</gpxdata:distance>
+          <gpxdata:speed>0.876</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8247407" lon="6.4420974">
+        <ele>1095.2</ele>
+        <time>2026-09-15T14:45:39Z</time>
+        <extensions>
+          <gpxdata:distance>16277.79</gpxdata:distance>
+          <gpxdata:speed>0.874</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8246947" lon="6.4420194">
+        <ele>1095.3</ele>
+        <time>2026-09-15T14:45:48Z</time>
+        <extensions>
+          <gpxdata:distance>16285.63</gpxdata:distance>
+          <gpxdata:speed>0.888</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8245857" lon="6.4419294">
+        <ele>1095.4</ele>
+        <time>2026-09-15T14:46:03Z</time>
+        <extensions>
+          <gpxdata:distance>16299.55</gpxdata:distance>
+          <gpxdata:speed>0.912</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8245227" lon="6.4418394">
+        <ele>1095.3</ele>
+        <time>2026-09-15T14:46:13Z</time>
+        <extensions>
+          <gpxdata:distance>16309.34</gpxdata:distance>
+          <gpxdata:speed>0.934</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8244767" lon="6.4417484">
+        <ele>1095.1</ele>
+        <time>2026-09-15T14:46:22Z</time>
+        <extensions>
+          <gpxdata:distance>16317.95</gpxdata:distance>
+          <gpxdata:speed>0.957</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8244217" lon="6.4416054">
+        <ele>1094.9</ele>
+        <time>2026-09-15T14:46:35Z</time>
+        <extensions>
+          <gpxdata:distance>16330.43</gpxdata:distance>
+          <gpxdata:speed>0.975</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8243847" lon="6.4414744">
+        <ele>1094.6</ele>
+        <time>2026-09-15T14:46:46Z</time>
+        <extensions>
+          <gpxdata:distance>16341.21</gpxdata:distance>
+          <gpxdata:speed>0.997</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8243467" lon="6.4413444">
+        <ele>1094.7</ele>
+        <time>2026-09-15T14:46:57Z</time>
+        <extensions>
+          <gpxdata:distance>16351.97</gpxdata:distance>
+          <gpxdata:speed>1.006</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8243097" lon="6.4411484">
+        <ele>1095.6</ele>
+        <time>2026-09-15T14:47:12Z</time>
+        <extensions>
+          <gpxdata:distance>16367.44</gpxdata:distance>
+          <gpxdata:speed>0.991</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8242727" lon="6.4410444">
+        <ele>1095.9</ele>
+        <time>2026-09-15T14:47:21Z</time>
+        <extensions>
+          <gpxdata:distance>16376.36</gpxdata:distance>
+          <gpxdata:speed>0.994</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8241347" lon="6.4407324">
+        <ele>1095.9</ele>
+        <time>2026-09-15T14:47:49Z</time>
+        <extensions>
+          <gpxdata:distance>16404.62</gpxdata:distance>
+          <gpxdata:speed>1.000</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8240887" lon="6.4406544">
+        <ele>1096.1</ele>
+        <time>2026-09-15T14:47:57Z</time>
+        <extensions>
+          <gpxdata:distance>16412.46</gpxdata:distance>
+          <gpxdata:speed>0.997</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8240167" lon="6.4405504">
+        <ele>1096.5</ele>
+        <time>2026-09-15T14:48:09Z</time>
+        <extensions>
+          <gpxdata:distance>16423.71</gpxdata:distance>
+          <gpxdata:speed>0.986</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8238337" lon="6.4402654">
+        <ele>1097.2</ele>
+        <time>2026-09-15T14:48:39Z</time>
+        <extensions>
+          <gpxdata:distance>16453.45</gpxdata:distance>
+          <gpxdata:speed>0.973</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8237517" lon="6.4401234">
+        <ele>1097.8</ele>
+        <time>2026-09-15T14:48:54Z</time>
+        <extensions>
+          <gpxdata:distance>16467.59</gpxdata:distance>
+          <gpxdata:speed>0.959</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8237247" lon="6.4400714">
+        <ele>1098.0</ele>
+        <time>2026-09-15T14:48:59Z</time>
+        <extensions>
+          <gpxdata:distance>16472.56</gpxdata:distance>
+          <gpxdata:speed>0.947</gpxdata:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8236967" lon="6.4399934">
+        <ele>1098.1</ele>
+        <time>2026-09-15T14:49:06Z</time>
+        <extensions>
+          <gpxdata:distance>16479.26</gpxdata:distance>
+          <gpxdata:speed>0.945</gpxdata:speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
